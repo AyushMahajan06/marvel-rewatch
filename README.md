@@ -2,6 +2,8 @@
 
 Ayush’s Marvel rewatch dashboard: a watchlist, Bluesky review journal, and viewing-time planner.
 
+The interface is written for visitors following Ayush's rewatch. Keep labels neutral and concise, preserve “Every universe. Every detour. One watchlist.”, and avoid owner-directed instructions or repeated explanations. Detailed calculation caveats live in a collapsed disclosure and title details; the planner clearly identifies assumptions and browser-local settings.
+
 - **Live site:** https://ayush-marvel-rewatch.yellow-field-6391.chatgpt.site
 - **Source repository:** https://github.com/AyushMahajan06/marvel-rewatch (private)
 
