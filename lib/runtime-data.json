@@ -1,0 +1,5361 @@
+{
+  "captainamerica-1944-1": {
+    "title": "Captain America (1944)",
+    "totalMinutes": null,
+    "complete": false,
+    "note": "Partial serial; no complete episode runtime breakdown verified."
+  },
+  "drstrange-1978-1": {
+    "title": "Dr. Strange",
+    "sourceTitle": "Dr. Strange (1978 film)",
+    "source": "https://en.wikipedia.org/wiki/Dr._Strange_(1978_film)",
+    "kind": "film",
+    "totalMinutes": 93,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "captainamerica-1979-1": {
+    "title": "Captain America",
+    "sourceTitle": "Captain America (1979 film)",
+    "source": "https://en.wikipedia.org/wiki/Captain_America_(1979_film)",
+    "kind": "film",
+    "totalMinutes": 97,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "howardduck-1986-1": {
+    "title": "Howard the Duck",
+    "sourceTitle": "Howard the Duck (film)",
+    "source": "https://en.wikipedia.org/wiki/Howard_the_Duck_(film)",
+    "kind": "film",
+    "totalMinutes": 111,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "punisher-1989-1": {
+    "title": "The Punisher",
+    "sourceTitle": "The Punisher (1989 film)",
+    "source": "https://en.wikipedia.org/wiki/The_Punisher_(1989_film)",
+    "kind": "film",
+    "totalMinutes": 89,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "fantasticfour-1994-1": {
+    "title": "Fantastic Four",
+    "sourceTitle": "The Fantastic Four (unreleased film)",
+    "source": "https://en.wikipedia.org/wiki/The_Fantastic_Four_(unreleased_film)",
+    "kind": "film",
+    "totalMinutes": 90,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "blade-1998-1": {
+    "title": "Blade",
+    "sourceTitle": "Blade (1998 film)",
+    "source": "https://en.wikipedia.org/wiki/Blade_(1998_film)",
+    "kind": "film",
+    "totalMinutes": 120,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "nickfuryagentofshield-1999-1": {
+    "title": "Nick Fury: Agent of Shield",
+    "sourceTitle": "Nick Fury: Agent of S.H.I.E.L.D. (film)",
+    "source": "https://en.wikipedia.org/wiki/Nick_Fury%3A_Agent_of_S.H.I.E.L.D._(film)",
+    "kind": "film",
+    "totalMinutes": 90,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "xmen-2000-1": {
+    "title": "X-Men",
+    "sourceTitle": "X-Men (film)",
+    "source": "https://en.wikipedia.org/wiki/X-Men_(film)",
+    "kind": "film",
+    "totalMinutes": 104,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "spiderman-2002-1": {
+    "title": "Spider-Man",
+    "sourceTitle": "Spider-Man (2002 film)",
+    "source": "https://en.wikipedia.org/wiki/Spider-Man_(2002_film)",
+    "kind": "film",
+    "totalMinutes": 122,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "blade2-2002-1": {
+    "title": "Blade 2",
+    "sourceTitle": "Blade II",
+    "source": "https://en.wikipedia.org/wiki/Blade_II",
+    "kind": "film",
+    "totalMinutes": 117,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "daredevil-2003-1": {
+    "title": "Daredevil",
+    "sourceTitle": "Daredevil (film)",
+    "source": "https://en.wikipedia.org/wiki/Daredevil_(film)",
+    "kind": "film",
+    "totalMinutes": 103,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "x2xmenunited-2003-1": {
+    "title": "X2: X-Men United",
+    "sourceTitle": "X2 (film)",
+    "source": "https://en.wikipedia.org/wiki/X2_(film)",
+    "kind": "film",
+    "totalMinutes": 133,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "punisher-2004-1": {
+    "title": "The Punisher",
+    "sourceTitle": "The Punisher (2004 film)",
+    "source": "https://en.wikipedia.org/wiki/The_Punisher_(2004_film)",
+    "kind": "film",
+    "totalMinutes": 123,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "spiderman2-2004-1": {
+    "title": "Spider-Man 2",
+    "sourceTitle": "Spider-Man 2",
+    "source": "https://en.wikipedia.org/wiki/Spider-Man_2",
+    "kind": "film",
+    "totalMinutes": 127,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "bladetrinity-2004-1": {
+    "title": "Blade: Trinity",
+    "sourceTitle": "Blade: Trinity",
+    "source": "https://en.wikipedia.org/wiki/Blade%3A_Trinity",
+    "kind": "film",
+    "totalMinutes": 113,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "elektra-2005-1": {
+    "title": "Elektra",
+    "sourceTitle": "Elektra (2005 film)",
+    "source": "https://en.wikipedia.org/wiki/Elektra_(2005_film)",
+    "kind": "film",
+    "totalMinutes": 97,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "fantasticfour-2005-1": {
+    "title": "Fantastic Four",
+    "sourceTitle": "Fantastic Four (2005 film)",
+    "source": "https://en.wikipedia.org/wiki/Fantastic_Four_(2005_film)",
+    "kind": "film",
+    "totalMinutes": 106,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "xmenlaststand-2006-1": {
+    "title": "X-Men: The Last Stand",
+    "sourceTitle": "X-Men: The Last Stand",
+    "source": "https://en.wikipedia.org/wiki/X-Men%3A_The_Last_Stand",
+    "kind": "film",
+    "totalMinutes": 104,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "ghostrider-2007-1": {
+    "title": "Ghost Rider",
+    "sourceTitle": "Ghost Rider (2007 film)",
+    "source": "https://en.wikipedia.org/wiki/Ghost_Rider_(2007_film)",
+    "kind": "film",
+    "totalMinutes": 110,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "spiderman3-2007-1": {
+    "title": "Spider-Man 3",
+    "sourceTitle": "Spider-Man 3",
+    "source": "https://en.wikipedia.org/wiki/Spider-Man_3",
+    "kind": "film",
+    "totalMinutes": 139,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "fantasticfourriseofsilversurfer-2007-1": {
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "sourceTitle": "Fantastic Four: Rise of the Silver Surfer",
+    "source": "https://en.wikipedia.org/wiki/Fantastic_Four%3A_Rise_of_the_Silver_Surfer",
+    "kind": "film",
+    "totalMinutes": 92,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "punisherwarzone-2008-1": {
+    "title": "The Punisher: War Zone",
+    "sourceTitle": "Punisher: War Zone",
+    "source": "https://en.wikipedia.org/wiki/Punisher%3A_War_Zone",
+    "kind": "film",
+    "totalMinutes": 103,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "ironman-2008-1": {
+    "title": "Iron Man",
+    "sourceTitle": "Iron Man (2008 film)",
+    "source": "https://en.wikipedia.org/wiki/Iron_Man_(2008_film)",
+    "kind": "film",
+    "totalMinutes": 126,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "incrediblehulk-2008-1": {
+    "title": "The Incredible Hulk",
+    "sourceTitle": "The Incredible Hulk (film)",
+    "source": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_(film)",
+    "kind": "film",
+    "totalMinutes": 112,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "xmenoriginswolverine-2009-1": {
+    "title": "X-Men Origins: Wolverine",
+    "sourceTitle": "X-Men Origins: Wolverine",
+    "source": "https://en.wikipedia.org/wiki/X-Men_Origins%3A_Wolverine",
+    "kind": "film",
+    "totalMinutes": 107,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "ironman2-2010-1": {
+    "title": "Iron Man 2",
+    "sourceTitle": "Iron Man 2",
+    "source": "https://en.wikipedia.org/wiki/Iron_Man_2",
+    "kind": "film",
+    "totalMinutes": 125,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "xmenfirstclass-2011-1": {
+    "title": "X-Men: First Class",
+    "sourceTitle": "X-Men: First Class",
+    "source": "https://en.wikipedia.org/wiki/X-Men%3A_First_Class",
+    "kind": "film",
+    "totalMinutes": 132,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "thor-2011-1": {
+    "title": "Thor",
+    "sourceTitle": "Thor (film)",
+    "source": "https://en.wikipedia.org/wiki/Thor_(film)",
+    "kind": "film",
+    "totalMinutes": 114,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "captainamericafirstavenger-2011-1": {
+    "title": "Captain America: The First Avenger",
+    "sourceTitle": "Captain America: The First Avenger",
+    "source": "https://en.wikipedia.org/wiki/Captain_America%3A_The_First_Avenger",
+    "kind": "film",
+    "totalMinutes": 124,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "ghostriderspiritofvengeance-2012-1": {
+    "title": "Ghost Rider: Spirit of Vengeance",
+    "sourceTitle": "Ghost Rider: Spirit of Vengeance",
+    "source": "https://en.wikipedia.org/wiki/Ghost_Rider%3A_Spirit_of_Vengeance",
+    "kind": "film",
+    "totalMinutes": 95,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "amazingspiderman-2012-1": {
+    "title": "The Amazing Spider-Man",
+    "sourceTitle": "The Amazing Spider-Man (film)",
+    "source": "https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(film)",
+    "kind": "film",
+    "totalMinutes": 136,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "avengers-2012-1": {
+    "title": "The Avengers",
+    "sourceTitle": "The Avengers (2012 film)",
+    "source": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)",
+    "kind": "film",
+    "totalMinutes": 143,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "ironman3-2013-1": {
+    "title": "Iron Man 3",
+    "sourceTitle": "Iron Man 3",
+    "source": "https://en.wikipedia.org/wiki/Iron_Man_3",
+    "kind": "film",
+    "totalMinutes": 130,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "wolverine-2013-1": {
+    "title": "The Wolverine",
+    "sourceTitle": "The Wolverine (film)",
+    "source": "https://en.wikipedia.org/wiki/The_Wolverine_(film)",
+    "kind": "film",
+    "totalMinutes": 126,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "thordarkworld-2013-1": {
+    "title": "Thor: The Dark World",
+    "sourceTitle": "Thor: The Dark World",
+    "source": "https://en.wikipedia.org/wiki/Thor%3A_The_Dark_World",
+    "kind": "film",
+    "totalMinutes": 112,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "agentsofshields1-2013-1": {
+    "title": "Agents of Shield Season 1",
+    "sourceTitle": "Marvel's Agents of S.H.I.E.L.D.",
+    "source": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Pilot",
+        "minutes": 44,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2013-09-24"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "0-8-4",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2013-10-01"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "The Asset",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2013-10-08"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Eye Spy",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2013-10-15"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Girl in the Flower Dress",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2013-10-22"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "FZZT",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2013-11-05"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "The Hub",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2013-11-12"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "The Well",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2013-11-19"
+      },
+      {
+        "season": 1,
+        "number": 9,
+        "name": "Repairs",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2013-11-26"
+      },
+      {
+        "season": 1,
+        "number": 10,
+        "name": "The Bridge",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2013-12-10"
+      },
+      {
+        "season": 1,
+        "number": 11,
+        "name": "The Magical Place",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2014-01-07"
+      },
+      {
+        "season": 1,
+        "number": 12,
+        "name": "Seeds",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2014-01-14"
+      },
+      {
+        "season": 1,
+        "number": 13,
+        "name": "T.R.A.C.K.S.",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2014-02-04"
+      },
+      {
+        "season": 1,
+        "number": 14,
+        "name": "T.A.H.I.T.I.",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2014-03-04"
+      },
+      {
+        "season": 1,
+        "number": 15,
+        "name": "Yes Men",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2014-03-11"
+      },
+      {
+        "season": 1,
+        "number": 16,
+        "name": "End of the Beginning",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2014-04-01"
+      },
+      {
+        "season": 1,
+        "number": 17,
+        "name": "Turn, Turn, Turn",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2014-04-08"
+      },
+      {
+        "season": 1,
+        "number": 18,
+        "name": "Providence",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2014-04-15"
+      },
+      {
+        "season": 1,
+        "number": 19,
+        "name": "The Only Light in the Darkness",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2014-04-22"
+      },
+      {
+        "season": 1,
+        "number": 20,
+        "name": "Nothing Personal",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2014-04-29"
+      },
+      {
+        "season": 1,
+        "number": 21,
+        "name": "Ragtag",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2014-05-06"
+      },
+      {
+        "season": 1,
+        "number": 22,
+        "name": "Beginning of the End",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/1",
+        "airdate": "2014-05-13"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 938,
+    "checkedAt": "2026-10-13"
+  },
+  "captainamericawintersoldier-2014-1": {
+    "title": "Captain America: The Winter Soldier",
+    "sourceTitle": "Captain America: The Winter Soldier",
+    "source": "https://en.wikipedia.org/wiki/Captain_America%3A_The_Winter_Soldier",
+    "kind": "film",
+    "totalMinutes": 136,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "xmendaysoffuturepast-2014-1": {
+    "title": "X-Men: Days of Future Past",
+    "sourceTitle": "X-Men: Days of Future Past",
+    "source": "https://en.wikipedia.org/wiki/X-Men%3A_Days_of_Future_Past",
+    "kind": "film",
+    "totalMinutes": 131,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "amazingspiderman2-2014-1": {
+    "title": "The Amazing Spider-Man 2",
+    "sourceTitle": "The Amazing Spider-Man 2",
+    "source": "https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_2",
+    "kind": "film",
+    "totalMinutes": 142,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "guardiansofgalaxy-2014-1": {
+    "title": "Guardians of the Galaxy",
+    "sourceTitle": "Guardians of the Galaxy (film)",
+    "source": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)",
+    "kind": "film",
+    "totalMinutes": 122,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "agentcarters1-2015-1": {
+    "title": "Agent Carter Season 1",
+    "sourceTitle": "Marvel's Agent Carter",
+    "source": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/1",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Now Is Not the End",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/1",
+        "airdate": "2015-01-06"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Bridge and Tunnel",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/1",
+        "airdate": "2015-01-06"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Time and Tide",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/1",
+        "airdate": "2015-01-13"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "The Blitzkrieg Button",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/1",
+        "airdate": "2015-01-27"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "The Iron Ceiling",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/1",
+        "airdate": "2015-02-03"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "A Sin to Err",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/1",
+        "airdate": "2015-02-10"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "Snafu",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/1",
+        "airdate": "2015-02-17"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "Valediction",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/1",
+        "airdate": "2015-02-24"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 334,
+    "checkedAt": "2026-10-13"
+  },
+  "daredevils1-2015-1": {
+    "title": "Daredevil S1",
+    "sourceTitle": "Marvel's Daredevil",
+    "source": "https://thetvdb.com/series/marvels-daredevil/seasons/official/1",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Into the Ring",
+        "minutes": 53,
+        "url": "https://thetvdb.com/series/marvels-daredevil/seasons/official/1",
+        "airdate": "2015-04-10"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Cut Man",
+        "minutes": 52,
+        "url": "https://thetvdb.com/series/marvels-daredevil/seasons/official/1",
+        "airdate": "2015-04-10"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Rabbit in a Snowstorm",
+        "minutes": 52,
+        "url": "https://thetvdb.com/series/marvels-daredevil/seasons/official/1",
+        "airdate": "2015-04-10"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "In the Blood",
+        "minutes": 52,
+        "url": "https://thetvdb.com/series/marvels-daredevil/seasons/official/1",
+        "airdate": "2015-04-10"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "World on Fire",
+        "minutes": 55,
+        "url": "https://thetvdb.com/series/marvels-daredevil/seasons/official/1",
+        "airdate": "2015-04-10"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "Condemned",
+        "minutes": 48,
+        "url": "https://thetvdb.com/series/marvels-daredevil/seasons/official/1",
+        "airdate": "2015-04-10"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "Stick",
+        "minutes": 50,
+        "url": "https://thetvdb.com/series/marvels-daredevil/seasons/official/1",
+        "airdate": "2015-04-10"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "Shadows in the Glass",
+        "minutes": 53,
+        "url": "https://thetvdb.com/series/marvels-daredevil/seasons/official/1",
+        "airdate": "2015-04-10"
+      },
+      {
+        "season": 1,
+        "number": 9,
+        "name": "Speak of the Devil",
+        "minutes": 57,
+        "url": "https://thetvdb.com/series/marvels-daredevil/seasons/official/1",
+        "airdate": "2015-04-10"
+      },
+      {
+        "season": 1,
+        "number": 10,
+        "name": "Nelson v. Murdock",
+        "minutes": 56,
+        "url": "https://thetvdb.com/series/marvels-daredevil/seasons/official/1",
+        "airdate": "2015-04-10"
+      },
+      {
+        "season": 1,
+        "number": 11,
+        "name": "The Path of the Righteous",
+        "minutes": 58,
+        "url": "https://thetvdb.com/series/marvels-daredevil/seasons/official/1",
+        "airdate": "2015-04-10"
+      },
+      {
+        "season": 1,
+        "number": 12,
+        "name": "The Ones We Leave Behind",
+        "minutes": 59,
+        "url": "https://thetvdb.com/series/marvels-daredevil/seasons/official/1",
+        "airdate": "2015-04-10"
+      },
+      {
+        "season": 1,
+        "number": 13,
+        "name": "Daredevil",
+        "minutes": 55,
+        "url": "https://thetvdb.com/series/marvels-daredevil/seasons/official/1",
+        "airdate": "2015-04-10"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 700,
+    "checkedAt": "2026-10-13"
+  },
+  "avengersageofultron-2015-1": {
+    "title": "Avengers: Age of Ultron",
+    "sourceTitle": "Avengers: Age of Ultron",
+    "source": "https://en.wikipedia.org/wiki/Avengers%3A_Age_of_Ultron",
+    "kind": "film",
+    "totalMinutes": 141,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "agentsofshields2-2014-1": {
+    "title": "Agents of Shield Season 2",
+    "sourceTitle": "Marvel's Agents of S.H.I.E.L.D.",
+    "source": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 2,
+        "number": 1,
+        "name": "Shadows",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2014-09-23"
+      },
+      {
+        "season": 2,
+        "number": 2,
+        "name": "Heavy Is the Head",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2014-09-30"
+      },
+      {
+        "season": 2,
+        "number": 3,
+        "name": "Making Friends and Influencing People",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2014-10-07"
+      },
+      {
+        "season": 2,
+        "number": 4,
+        "name": "Face My Enemy",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2014-10-14"
+      },
+      {
+        "season": 2,
+        "number": 5,
+        "name": "A Hen in the Wolf House",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2014-10-21"
+      },
+      {
+        "season": 2,
+        "number": 6,
+        "name": "A Fractured House",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2014-10-28"
+      },
+      {
+        "season": 2,
+        "number": 7,
+        "name": "The Writing on the Wall",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2014-11-11"
+      },
+      {
+        "season": 2,
+        "number": 8,
+        "name": "The Things We Bury",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2014-11-18"
+      },
+      {
+        "season": 2,
+        "number": 9,
+        "name": "...Ye Who Enter Here",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2014-12-02"
+      },
+      {
+        "season": 2,
+        "number": 10,
+        "name": "What They Become",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2014-12-09"
+      },
+      {
+        "season": 2,
+        "number": 11,
+        "name": "Aftershocks",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2015-03-03"
+      },
+      {
+        "season": 2,
+        "number": 12,
+        "name": "Who You Really Are",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2015-03-10"
+      },
+      {
+        "season": 2,
+        "number": 13,
+        "name": "One of Us",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2015-03-17"
+      },
+      {
+        "season": 2,
+        "number": 14,
+        "name": "Love in the Time of HYDRA",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2015-03-24"
+      },
+      {
+        "season": 2,
+        "number": 15,
+        "name": "One Door Closes",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2015-03-31"
+      },
+      {
+        "season": 2,
+        "number": 16,
+        "name": "Afterlife",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2015-04-07"
+      },
+      {
+        "season": 2,
+        "number": 17,
+        "name": "Melinda",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2015-04-14"
+      },
+      {
+        "season": 2,
+        "number": 18,
+        "name": "The Frenemy of My Enemy",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2015-04-21"
+      },
+      {
+        "season": 2,
+        "number": 19,
+        "name": "The Dirty Half Dozen",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2015-04-28"
+      },
+      {
+        "season": 2,
+        "number": 20,
+        "name": "Scars",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2015-05-05"
+      },
+      {
+        "season": 2,
+        "number": 21,
+        "name": "S.O.S.: Part 1",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2015-05-12"
+      },
+      {
+        "season": 2,
+        "number": 22,
+        "name": "S.O.S.: Part 2",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/2",
+        "airdate": "2015-05-12"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 941,
+    "checkedAt": "2026-10-13"
+  },
+  "antman-2015-1": {
+    "title": "Ant-Man",
+    "sourceTitle": "Ant-Man (film)",
+    "source": "https://en.wikipedia.org/wiki/Ant-Man_(film)",
+    "kind": "film",
+    "totalMinutes": 117,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "jessicajoness1-2015-1": {
+    "title": "Jessica Jones S1",
+    "sourceTitle": "Marvel's Jessica Jones",
+    "source": "https://thetvdb.com/series/marvels-jessica-jones/seasons/official/1",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "AKA Ladies Night",
+        "minutes": 52,
+        "url": "https://thetvdb.com/series/marvels-jessica-jones/seasons/official/1",
+        "airdate": "2015-11-20"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "AKA Crush Syndrome",
+        "minutes": 52,
+        "url": "https://thetvdb.com/series/marvels-jessica-jones/seasons/official/1",
+        "airdate": "2015-11-20"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "AKA It's Called Whiskey",
+        "minutes": 53,
+        "url": "https://thetvdb.com/series/marvels-jessica-jones/seasons/official/1",
+        "airdate": "2015-11-20"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "AKA 99 Friends",
+        "minutes": 48,
+        "url": "https://thetvdb.com/series/marvels-jessica-jones/seasons/official/1",
+        "airdate": "2015-11-20"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "AKA The Sandwich Saved Me",
+        "minutes": 49,
+        "url": "https://thetvdb.com/series/marvels-jessica-jones/seasons/official/1",
+        "airdate": "2015-11-20"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "AKA You're a Winner!",
+        "minutes": 53,
+        "url": "https://thetvdb.com/series/marvels-jessica-jones/seasons/official/1",
+        "airdate": "2015-11-20"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "AKA Top Shelf Perverts",
+        "minutes": 54,
+        "url": "https://thetvdb.com/series/marvels-jessica-jones/seasons/official/1",
+        "airdate": "2015-11-20"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "AKA WWJD?",
+        "minutes": 49,
+        "url": "https://thetvdb.com/series/marvels-jessica-jones/seasons/official/1",
+        "airdate": "2015-11-20"
+      },
+      {
+        "season": 1,
+        "number": 9,
+        "name": "AKA Sin Bin",
+        "minutes": 55,
+        "url": "https://thetvdb.com/series/marvels-jessica-jones/seasons/official/1",
+        "airdate": "2015-11-20"
+      },
+      {
+        "season": 1,
+        "number": 10,
+        "name": "AKA 1,000 Cuts",
+        "minutes": 46,
+        "url": "https://thetvdb.com/series/marvels-jessica-jones/seasons/official/1",
+        "airdate": "2015-11-20"
+      },
+      {
+        "season": 1,
+        "number": 11,
+        "name": "AKA I've Got the Blues",
+        "minutes": 50,
+        "url": "https://thetvdb.com/series/marvels-jessica-jones/seasons/official/1",
+        "airdate": "2015-11-20"
+      },
+      {
+        "season": 1,
+        "number": 12,
+        "name": "AKA Take a Bloody Number",
+        "minutes": 53,
+        "url": "https://thetvdb.com/series/marvels-jessica-jones/seasons/official/1",
+        "airdate": "2015-11-20"
+      },
+      {
+        "season": 1,
+        "number": 13,
+        "name": "AKA Smile",
+        "minutes": 52,
+        "url": "https://thetvdb.com/series/marvels-jessica-jones/seasons/official/1",
+        "airdate": "2015-11-20"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 666,
+    "checkedAt": "2026-10-13"
+  },
+  "agentsofshields3-2015-1": {
+    "title": "Agents of Shield Season 3",
+    "sourceTitle": "Marvel's Agents of S.H.I.E.L.D.",
+    "source": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 3,
+        "number": 1,
+        "name": "Laws of Nature",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2015-09-29"
+      },
+      {
+        "season": 3,
+        "number": 2,
+        "name": "Purpose in the Machine",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2015-10-06"
+      },
+      {
+        "season": 3,
+        "number": 3,
+        "name": "A Wanted (Inhu)man",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2015-10-13"
+      },
+      {
+        "season": 3,
+        "number": 4,
+        "name": "Devils You Know",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2015-10-20"
+      },
+      {
+        "season": 3,
+        "number": 5,
+        "name": "4,722 Hours",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2015-10-27"
+      },
+      {
+        "season": 3,
+        "number": 6,
+        "name": "Among Us Hide…",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2015-11-03"
+      },
+      {
+        "season": 3,
+        "number": 7,
+        "name": "Chaos Theory",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2015-11-10"
+      },
+      {
+        "season": 3,
+        "number": 8,
+        "name": "Many Heads, One Tale",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2015-11-17"
+      },
+      {
+        "season": 3,
+        "number": 9,
+        "name": "Closure",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2015-12-01"
+      },
+      {
+        "season": 3,
+        "number": 10,
+        "name": "Maveth",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2015-12-08"
+      },
+      {
+        "season": 3,
+        "number": 11,
+        "name": "Bouncing Back",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2016-03-08"
+      },
+      {
+        "season": 3,
+        "number": 12,
+        "name": "The Inside Man",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2016-03-15"
+      },
+      {
+        "season": 3,
+        "number": 13,
+        "name": "Parting Shot",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2016-03-22"
+      },
+      {
+        "season": 3,
+        "number": 14,
+        "name": "Watchdogs",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2016-03-29"
+      },
+      {
+        "season": 3,
+        "number": 15,
+        "name": "Spacetime",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2016-04-05"
+      },
+      {
+        "season": 3,
+        "number": 16,
+        "name": "Paradise Lost",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2016-04-12"
+      },
+      {
+        "season": 3,
+        "number": 17,
+        "name": "The Team",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2016-04-19"
+      },
+      {
+        "season": 3,
+        "number": 18,
+        "name": "The Singularity",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2016-04-26"
+      },
+      {
+        "season": 3,
+        "number": 19,
+        "name": "Failed Experiments",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2016-05-03"
+      },
+      {
+        "season": 3,
+        "number": 20,
+        "name": "Emancipation",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2016-05-10"
+      },
+      {
+        "season": 3,
+        "number": 21,
+        "name": "Absolution",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2016-05-17"
+      },
+      {
+        "season": 3,
+        "number": 22,
+        "name": "Ascension",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/3",
+        "airdate": "2016-05-17"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 941,
+    "checkedAt": "2026-10-13"
+  },
+  "agentcarters2-2015-1": {
+    "title": "Agent Carter Season 2",
+    "sourceTitle": "Marvel's Agent Carter",
+    "source": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/2",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 2,
+        "number": 1,
+        "name": "The Lady in the Lake",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/2",
+        "airdate": "2016-01-19"
+      },
+      {
+        "season": 2,
+        "number": 2,
+        "name": "A View in the Dark",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/2",
+        "airdate": "2016-01-19"
+      },
+      {
+        "season": 2,
+        "number": 3,
+        "name": "Better Angels",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/2",
+        "airdate": "2016-01-26"
+      },
+      {
+        "season": 2,
+        "number": 4,
+        "name": "Smoke & Mirrors",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/2",
+        "airdate": "2016-02-02"
+      },
+      {
+        "season": 2,
+        "number": 5,
+        "name": "The Atomic Job",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/2",
+        "airdate": "2016-02-09"
+      },
+      {
+        "season": 2,
+        "number": 6,
+        "name": "Life of the Party",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/2",
+        "airdate": "2016-02-16"
+      },
+      {
+        "season": 2,
+        "number": 7,
+        "name": "Monsters",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/2",
+        "airdate": "2016-02-16"
+      },
+      {
+        "season": 2,
+        "number": 8,
+        "name": "The Edge of Mystery",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/2",
+        "airdate": "2016-02-23"
+      },
+      {
+        "season": 2,
+        "number": 9,
+        "name": "A Little Song and Dance",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/2",
+        "airdate": "2016-02-23"
+      },
+      {
+        "season": 2,
+        "number": 10,
+        "name": "Hollywood Ending",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agent-carter/seasons/official/2",
+        "airdate": "2016-03-01"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 425,
+    "checkedAt": "2026-10-13"
+  },
+  "deadpool-2016-1": {
+    "title": "Deadpool",
+    "sourceTitle": "Deadpool (film)",
+    "source": "https://en.wikipedia.org/wiki/Deadpool_(film)",
+    "kind": "film",
+    "totalMinutes": 108,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "daredevils2-2016-1": {
+    "title": "Daredevil S2",
+    "sourceTitle": "Marvel's Daredevil",
+    "source": "https://www.tvmaze.com/shows/1369/marvels-daredevil",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 2,
+        "number": 1,
+        "name": "Bang",
+        "minutes": 48,
+        "url": "https://www.tvmaze.com/episodes/558708/marvels-daredevil-2x01-bang",
+        "airdate": "2016-03-18"
+      },
+      {
+        "season": 2,
+        "number": 2,
+        "name": "Dogs to a Gunfight",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/559235/marvels-daredevil-2x02-dogs-to-a-gunfight",
+        "airdate": "2016-03-18"
+      },
+      {
+        "season": 2,
+        "number": 3,
+        "name": "New York's Finest",
+        "minutes": 48,
+        "url": "https://www.tvmaze.com/episodes/559236/marvels-daredevil-2x03-new-yorks-finest",
+        "airdate": "2016-03-18"
+      },
+      {
+        "season": 2,
+        "number": 4,
+        "name": "Penny and Dime",
+        "minutes": 60,
+        "url": "https://www.tvmaze.com/episodes/559237/marvels-daredevil-2x04-penny-and-dime",
+        "airdate": "2016-03-18"
+      },
+      {
+        "season": 2,
+        "number": 5,
+        "name": "Kinbaku",
+        "minutes": 56,
+        "url": "https://www.tvmaze.com/episodes/559238/marvels-daredevil-2x05-kinbaku",
+        "airdate": "2016-03-18"
+      },
+      {
+        "season": 2,
+        "number": 6,
+        "name": "Regrets Only",
+        "minutes": 56,
+        "url": "https://www.tvmaze.com/episodes/559239/marvels-daredevil-2x06-regrets-only",
+        "airdate": "2016-03-18"
+      },
+      {
+        "season": 2,
+        "number": 7,
+        "name": "Semper Fidelis",
+        "minutes": 56,
+        "url": "https://www.tvmaze.com/episodes/559240/marvels-daredevil-2x07-semper-fidelis",
+        "airdate": "2016-03-18"
+      },
+      {
+        "season": 2,
+        "number": 8,
+        "name": "Guilty as Sin",
+        "minutes": 54,
+        "url": "https://www.tvmaze.com/episodes/559241/marvels-daredevil-2x08-guilty-as-sin",
+        "airdate": "2016-03-18"
+      },
+      {
+        "season": 2,
+        "number": 9,
+        "name": "Seven Minutes in Heaven",
+        "minutes": 59,
+        "url": "https://www.tvmaze.com/episodes/559242/marvels-daredevil-2x09-seven-minutes-in-heaven",
+        "airdate": "2016-03-18"
+      },
+      {
+        "season": 2,
+        "number": 10,
+        "name": "The Man in the Box",
+        "minutes": 60,
+        "url": "https://www.tvmaze.com/episodes/559243/marvels-daredevil-2x10-the-man-in-the-box",
+        "airdate": "2016-03-18"
+      },
+      {
+        "season": 2,
+        "number": 11,
+        "name": ".380",
+        "minutes": 55,
+        "url": "https://www.tvmaze.com/episodes/559244/marvels-daredevil-2x11-380",
+        "airdate": "2016-03-18"
+      },
+      {
+        "season": 2,
+        "number": 12,
+        "name": "The Dark at the End of the Tunnel",
+        "minutes": 52,
+        "url": "https://www.tvmaze.com/episodes/559245/marvels-daredevil-2x12-the-dark-at-the-end-of-the-tunnel",
+        "airdate": "2016-03-18"
+      },
+      {
+        "season": 2,
+        "number": 13,
+        "name": "A Cold Day in Hell's Kitchen",
+        "minutes": 57,
+        "url": "https://www.tvmaze.com/episodes/559246/marvels-daredevil-2x13-a-cold-day-in-hells-kitchen",
+        "airdate": "2016-03-18"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 711,
+    "checkedAt": "2026-10-13"
+  },
+  "xmenapocalypse-2016-1": {
+    "title": "X-Men: Apocalypse",
+    "sourceTitle": "X-Men: Apocalypse",
+    "source": "https://en.wikipedia.org/wiki/X-Men%3A_Apocalypse",
+    "kind": "film",
+    "totalMinutes": 144,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "lukecages1-2016-1": {
+    "title": "Luke Cage S1",
+    "sourceTitle": "Marvel's Luke Cage",
+    "source": "https://thetvdb.com/series/marvels-luke-cage/seasons/official/1",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Moment of Truth",
+        "minutes": 55,
+        "url": "https://thetvdb.com/series/marvels-luke-cage/seasons/official/1",
+        "airdate": "2016-09-30"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Code of the Streets",
+        "minutes": 59,
+        "url": "https://thetvdb.com/series/marvels-luke-cage/seasons/official/1",
+        "airdate": "2016-09-30"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Who's Gonna Take the Weight?",
+        "minutes": 57,
+        "url": "https://thetvdb.com/series/marvels-luke-cage/seasons/official/1",
+        "airdate": "2016-09-30"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Step in the Arena",
+        "minutes": 53,
+        "url": "https://thetvdb.com/series/marvels-luke-cage/seasons/official/1",
+        "airdate": "2016-09-30"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Just to Get a Rep",
+        "minutes": 52,
+        "url": "https://thetvdb.com/series/marvels-luke-cage/seasons/official/1",
+        "airdate": "2016-09-30"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "Suckas Need Bodyguards",
+        "minutes": 53,
+        "url": "https://thetvdb.com/series/marvels-luke-cage/seasons/official/1",
+        "airdate": "2016-09-30"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "Manifest",
+        "minutes": 52,
+        "url": "https://thetvdb.com/series/marvels-luke-cage/seasons/official/1",
+        "airdate": "2016-09-30"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "Blowin' Up the Spot",
+        "minutes": 49,
+        "url": "https://thetvdb.com/series/marvels-luke-cage/seasons/official/1",
+        "airdate": "2016-09-30"
+      },
+      {
+        "season": 1,
+        "number": 9,
+        "name": "DWYCK",
+        "minutes": 66,
+        "url": "https://thetvdb.com/series/marvels-luke-cage/seasons/official/1",
+        "airdate": "2016-09-30"
+      },
+      {
+        "season": 1,
+        "number": 10,
+        "name": "Take It Personal",
+        "minutes": 48,
+        "url": "https://thetvdb.com/series/marvels-luke-cage/seasons/official/1",
+        "airdate": "2016-09-30"
+      },
+      {
+        "season": 1,
+        "number": 11,
+        "name": "Now You're Mine",
+        "minutes": 51,
+        "url": "https://thetvdb.com/series/marvels-luke-cage/seasons/official/1",
+        "airdate": "2016-09-30"
+      },
+      {
+        "season": 1,
+        "number": 12,
+        "name": "Soliloquy of Chaos",
+        "minutes": 62,
+        "url": "https://thetvdb.com/series/marvels-luke-cage/seasons/official/1",
+        "airdate": "2016-09-30"
+      },
+      {
+        "season": 1,
+        "number": 13,
+        "name": "You Know My Steez",
+        "minutes": 46,
+        "url": "https://thetvdb.com/series/marvels-luke-cage/seasons/official/1",
+        "airdate": "2016-09-30"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 703,
+    "checkedAt": "2026-10-13"
+  },
+  "captainamericacivilwar-2016-1": {
+    "title": "Captain America: Civil War",
+    "sourceTitle": "Captain America: Civil War",
+    "source": "https://en.wikipedia.org/wiki/Captain_America%3A_Civil_War",
+    "kind": "film",
+    "totalMinutes": 147,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "agentsofshields4-2016-1": {
+    "title": "Agents of Shield Season 4",
+    "sourceTitle": "Marvel's Agents of S.H.I.E.L.D.",
+    "source": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 4,
+        "number": 1,
+        "name": "The Ghost",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2016-09-20"
+      },
+      {
+        "season": 4,
+        "number": 2,
+        "name": "Meet the New Boss",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2016-09-27"
+      },
+      {
+        "season": 4,
+        "number": 3,
+        "name": "Uprising",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2016-10-11"
+      },
+      {
+        "season": 4,
+        "number": 4,
+        "name": "Let Me Stand Next to Your Fire",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2016-10-18"
+      },
+      {
+        "season": 4,
+        "number": 5,
+        "name": "Lockup",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2016-10-25"
+      },
+      {
+        "season": 4,
+        "number": 6,
+        "name": "The Good Samaritan",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2016-11-01"
+      },
+      {
+        "season": 4,
+        "number": 7,
+        "name": "Deals with Our Devils",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2016-11-29"
+      },
+      {
+        "season": 4,
+        "number": 8,
+        "name": "The Laws of Inferno Dynamics",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2016-12-06"
+      },
+      {
+        "season": 4,
+        "number": 9,
+        "name": "Broken Promises",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2017-01-10"
+      },
+      {
+        "season": 4,
+        "number": 10,
+        "name": "The Patriot",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2017-01-17"
+      },
+      {
+        "season": 4,
+        "number": 11,
+        "name": "Wake Up",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2017-01-24"
+      },
+      {
+        "season": 4,
+        "number": 12,
+        "name": "Hot Potato Soup",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2017-01-31"
+      },
+      {
+        "season": 4,
+        "number": 13,
+        "name": "BOOM",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2017-02-07"
+      },
+      {
+        "season": 4,
+        "number": 14,
+        "name": "The Man Behind the Shield",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2017-02-14"
+      },
+      {
+        "season": 4,
+        "number": 15,
+        "name": "Self Control",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2017-02-21"
+      },
+      {
+        "season": 4,
+        "number": 16,
+        "name": "What If...",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2017-04-04"
+      },
+      {
+        "season": 4,
+        "number": 17,
+        "name": "Identity and Change",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2017-04-11"
+      },
+      {
+        "season": 4,
+        "number": 18,
+        "name": "No Regrets",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2017-04-18"
+      },
+      {
+        "season": 4,
+        "number": 19,
+        "name": "All the Madame's Men",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2017-04-25"
+      },
+      {
+        "season": 4,
+        "number": 20,
+        "name": "Farewell, Cruel World!",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2017-05-02"
+      },
+      {
+        "season": 4,
+        "number": 21,
+        "name": "The Return",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2017-05-09"
+      },
+      {
+        "season": 4,
+        "number": 22,
+        "name": "World's End",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/4",
+        "airdate": "2017-05-16"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 940,
+    "checkedAt": "2026-10-13"
+  },
+  "doctorstrange-2016-1": {
+    "title": "Doctor Strange",
+    "sourceTitle": "Doctor Strange (2016 film)",
+    "source": "https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)",
+    "kind": "film",
+    "totalMinutes": 115,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "guardiansofgalaxy2-2017-1": {
+    "title": "Guardians of the Galaxy 2",
+    "sourceTitle": "Guardians of the Galaxy Vol. 2",
+    "source": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2",
+    "kind": "film",
+    "totalMinutes": 136,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "logan-2017-1": {
+    "title": "Logan",
+    "sourceTitle": "Logan (film)",
+    "source": "https://en.wikipedia.org/wiki/Logan_(film)",
+    "kind": "film",
+    "totalMinutes": 137,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "spidermanhomecoming-2017-1": {
+    "title": "Spider-Man: Homecoming",
+    "sourceTitle": "Spider-Man: Homecoming",
+    "source": "https://en.wikipedia.org/wiki/Spider-Man%3A_Homecoming",
+    "kind": "film",
+    "totalMinutes": 133,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "ironfists1-2017-1": {
+    "title": "Iron Fist S1",
+    "sourceTitle": "Marvel's Iron Fist",
+    "source": "https://www.tvmaze.com/shows/2175/marvels-iron-fist",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Snow Gives Way",
+        "minutes": 57,
+        "url": "https://www.tvmaze.com/episodes/950707/marvels-iron-fist-1x01-snow-gives-way",
+        "airdate": "2017-03-17"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Shadow Hawk Takes Flight",
+        "minutes": 61,
+        "url": "https://www.tvmaze.com/episodes/1040807/marvels-iron-fist-1x02-shadow-hawk-takes-flight",
+        "airdate": "2017-03-17"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Rolling Thunder Cannon Punch",
+        "minutes": 59,
+        "url": "https://www.tvmaze.com/episodes/1040808/marvels-iron-fist-1x03-rolling-thunder-cannon-punch",
+        "airdate": "2017-03-17"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Eight Diagram Dragon Palm",
+        "minutes": 54,
+        "url": "https://www.tvmaze.com/episodes/1040809/marvels-iron-fist-1x04-eight-diagram-dragon-palm",
+        "airdate": "2017-03-17"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Under Leaf Pluck Lotus",
+        "minutes": 56,
+        "url": "https://www.tvmaze.com/episodes/1040811/marvels-iron-fist-1x05-under-leaf-pluck-lotus",
+        "airdate": "2017-03-17"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "Immortal Emerges from Cave",
+        "minutes": 53,
+        "url": "https://www.tvmaze.com/episodes/1040812/marvels-iron-fist-1x06-immortal-emerges-from-cave",
+        "airdate": "2017-03-17"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "Felling Tree with Roots",
+        "minutes": 58,
+        "url": "https://www.tvmaze.com/episodes/1040813/marvels-iron-fist-1x07-felling-tree-with-roots",
+        "airdate": "2017-03-17"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "The Blessing of Many Fractures",
+        "minutes": 55,
+        "url": "https://www.tvmaze.com/episodes/1040814/marvels-iron-fist-1x08-the-blessing-of-many-fractures",
+        "airdate": "2017-03-17"
+      },
+      {
+        "season": 1,
+        "number": 9,
+        "name": "The Mistress of All Agonies",
+        "minutes": 54,
+        "url": "https://www.tvmaze.com/episodes/1040815/marvels-iron-fist-1x09-the-mistress-of-all-agonies",
+        "airdate": "2017-03-17"
+      },
+      {
+        "season": 1,
+        "number": 10,
+        "name": "Black Tiger Steals Heart",
+        "minutes": 56,
+        "url": "https://www.tvmaze.com/episodes/1040816/marvels-iron-fist-1x10-black-tiger-steals-heart",
+        "airdate": "2017-03-17"
+      },
+      {
+        "season": 1,
+        "number": 11,
+        "name": "Lead Horse Back to Stable",
+        "minutes": 52,
+        "url": "https://www.tvmaze.com/episodes/1040817/marvels-iron-fist-1x11-lead-horse-back-to-stable",
+        "airdate": "2017-03-17"
+      },
+      {
+        "season": 1,
+        "number": 12,
+        "name": "Bar the Big Boss",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/1040818/marvels-iron-fist-1x12-bar-the-big-boss",
+        "airdate": "2017-03-17"
+      },
+      {
+        "season": 1,
+        "number": 13,
+        "name": "Dragon Plays with Fire",
+        "minutes": 53,
+        "url": "https://www.tvmaze.com/episodes/1040819/marvels-iron-fist-1x13-dragon-plays-with-fire",
+        "airdate": "2017-03-17"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 718,
+    "checkedAt": "2026-10-13"
+  },
+  "agentsofshields5-2017-1": {
+    "title": "Agents of Shield Season 5",
+    "sourceTitle": "Marvel's Agents of S.H.I.E.L.D.",
+    "source": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 5,
+        "number": 1,
+        "name": "Orientation (Part One)",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2017-12-01"
+      },
+      {
+        "season": 5,
+        "number": 2,
+        "name": "Orientation (Part Two)",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2017-12-01"
+      },
+      {
+        "season": 5,
+        "number": 3,
+        "name": "A Life Spent",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2017-12-08"
+      },
+      {
+        "season": 5,
+        "number": 4,
+        "name": "A Life Earned",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2017-12-15"
+      },
+      {
+        "season": 5,
+        "number": 5,
+        "name": "Rewind",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2017-12-22"
+      },
+      {
+        "season": 5,
+        "number": 6,
+        "name": "Fun & Games",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-01-05"
+      },
+      {
+        "season": 5,
+        "number": 7,
+        "name": "Together or Not at All",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-01-12"
+      },
+      {
+        "season": 5,
+        "number": 8,
+        "name": "The Last Day",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-01-19"
+      },
+      {
+        "season": 5,
+        "number": 9,
+        "name": "Best Laid Plans",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-01-26"
+      },
+      {
+        "season": 5,
+        "number": 10,
+        "name": "Past Life",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-02-02"
+      },
+      {
+        "season": 5,
+        "number": 11,
+        "name": "All the Comforts of Home",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-03-02"
+      },
+      {
+        "season": 5,
+        "number": 12,
+        "name": "The Real Deal",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-03-09"
+      },
+      {
+        "season": 5,
+        "number": 13,
+        "name": "Principia",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-03-16"
+      },
+      {
+        "season": 5,
+        "number": 14,
+        "name": "The Devil Complex",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-03-23"
+      },
+      {
+        "season": 5,
+        "number": 15,
+        "name": "Rise and Shine",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-03-30"
+      },
+      {
+        "season": 5,
+        "number": 16,
+        "name": "Inside Voices",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-04-06"
+      },
+      {
+        "season": 5,
+        "number": 17,
+        "name": "The Honeymoon",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-04-13"
+      },
+      {
+        "season": 5,
+        "number": 18,
+        "name": "All Roads Lead…",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-04-20"
+      },
+      {
+        "season": 5,
+        "number": 19,
+        "name": "Option Two",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-04-27"
+      },
+      {
+        "season": 5,
+        "number": 20,
+        "name": "The One Who Will Save Us All",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-05-04"
+      },
+      {
+        "season": 5,
+        "number": 21,
+        "name": "The Force of Gravity",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-05-11"
+      },
+      {
+        "season": 5,
+        "number": 22,
+        "name": "The End",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/5",
+        "airdate": "2018-05-18"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 934,
+    "checkedAt": "2026-10-13"
+  },
+  "defenderss1-2017-1": {
+    "title": "The Defenders S1",
+    "sourceTitle": "Marvel's The Defenders",
+    "source": "https://www.tvmaze.com/shows/2176/marvels-the-defenders",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "The H Word",
+        "minutes": 52,
+        "url": "https://www.tvmaze.com/episodes/408715/marvels-the-defenders-1x01-the-h-word",
+        "airdate": "2017-08-18"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Mean Right Hook",
+        "minutes": 45,
+        "url": "https://www.tvmaze.com/episodes/408720/marvels-the-defenders-1x02-mean-right-hook",
+        "airdate": "2017-08-18"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Worst Behavior",
+        "minutes": 55,
+        "url": "https://www.tvmaze.com/episodes/1121988/marvels-the-defenders-1x03-worst-behavior",
+        "airdate": "2017-08-18"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Royal Dragon",
+        "minutes": 45,
+        "url": "https://www.tvmaze.com/episodes/1121989/marvels-the-defenders-1x04-royal-dragon",
+        "airdate": "2017-08-18"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Take Shelter",
+        "minutes": 51,
+        "url": "https://www.tvmaze.com/episodes/1121990/marvels-the-defenders-1x05-take-shelter",
+        "airdate": "2017-08-18"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "Ashes, Ashes",
+        "minutes": 51,
+        "url": "https://www.tvmaze.com/episodes/1121991/marvels-the-defenders-1x06-ashes-ashes",
+        "airdate": "2017-08-18"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "Fish in the Jailhouse",
+        "minutes": 46,
+        "url": "https://www.tvmaze.com/episodes/1121992/marvels-the-defenders-1x07-fish-in-the-jailhouse",
+        "airdate": "2017-08-18"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "The Defenders",
+        "minutes": 56,
+        "url": "https://www.tvmaze.com/episodes/1121993/marvels-the-defenders-1x08-the-defenders",
+        "airdate": "2017-08-18"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 401,
+    "checkedAt": "2026-10-13"
+  },
+  "thorragnarok-2017-1": {
+    "title": "Thor: Ragnarok",
+    "sourceTitle": "Thor: Ragnarok",
+    "source": "https://en.wikipedia.org/wiki/Thor%3A_Ragnarok",
+    "kind": "film",
+    "totalMinutes": 130,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "punishers1-2017-1": {
+    "title": "The Punisher S1",
+    "sourceTitle": "Marvel's The Punisher",
+    "source": "https://thetvdb.com/series/marvels-the-punisher/seasons/official/1",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "3AM",
+        "minutes": 51,
+        "url": "https://thetvdb.com/series/marvels-the-punisher/seasons/official/1",
+        "airdate": "2017-11-17"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Two Dead Men",
+        "minutes": 56,
+        "url": "https://thetvdb.com/series/marvels-the-punisher/seasons/official/1",
+        "airdate": "2017-11-17"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Kandahar",
+        "minutes": 57,
+        "url": "https://thetvdb.com/series/marvels-the-punisher/seasons/official/1",
+        "airdate": "2017-11-17"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Resupply",
+        "minutes": 48,
+        "url": "https://thetvdb.com/series/marvels-the-punisher/seasons/official/1",
+        "airdate": "2017-11-17"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Gunner",
+        "minutes": 54,
+        "url": "https://thetvdb.com/series/marvels-the-punisher/seasons/official/1",
+        "airdate": "2017-11-17"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "The Judas Goat",
+        "minutes": 54,
+        "url": "https://thetvdb.com/series/marvels-the-punisher/seasons/official/1",
+        "airdate": "2017-11-17"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "Crosshairs",
+        "minutes": 48,
+        "url": "https://thetvdb.com/series/marvels-the-punisher/seasons/official/1",
+        "airdate": "2017-11-17"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "Cold Steel",
+        "minutes": 52,
+        "url": "https://thetvdb.com/series/marvels-the-punisher/seasons/official/1",
+        "airdate": "2017-11-17"
+      },
+      {
+        "season": 1,
+        "number": 9,
+        "name": "Front Toward Enemy",
+        "minutes": 53,
+        "url": "https://thetvdb.com/series/marvels-the-punisher/seasons/official/1",
+        "airdate": "2017-11-17"
+      },
+      {
+        "season": 1,
+        "number": 10,
+        "name": "Virtue of the Vicious",
+        "minutes": 48,
+        "url": "https://thetvdb.com/series/marvels-the-punisher/seasons/official/1",
+        "airdate": "2017-11-17"
+      },
+      {
+        "season": 1,
+        "number": 11,
+        "name": "Danger Close",
+        "minutes": 51,
+        "url": "https://thetvdb.com/series/marvels-the-punisher/seasons/official/1",
+        "airdate": "2017-11-17"
+      },
+      {
+        "season": 1,
+        "number": 12,
+        "name": "Home",
+        "minutes": 50,
+        "url": "https://thetvdb.com/series/marvels-the-punisher/seasons/official/1",
+        "airdate": "2017-11-17"
+      },
+      {
+        "season": 1,
+        "number": 13,
+        "name": "Memento Mori",
+        "minutes": 54,
+        "url": "https://thetvdb.com/series/marvels-the-punisher/seasons/official/1",
+        "airdate": "2017-11-17"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 676,
+    "checkedAt": "2026-10-13"
+  },
+  "deadpool2-2018-1": {
+    "title": "Deadpool 2",
+    "sourceTitle": "Deadpool 2",
+    "source": "https://en.wikipedia.org/wiki/Deadpool_2",
+    "kind": "film",
+    "totalMinutes": 119,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "ironfists2-2018-1": {
+    "title": "Iron Fist S2",
+    "sourceTitle": "Marvel's Iron Fist",
+    "source": "https://www.tvmaze.com/shows/2175/marvels-iron-fist",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 2,
+        "number": 1,
+        "name": "The Fury of Iron Fist",
+        "minutes": 57,
+        "url": "https://www.tvmaze.com/episodes/1499037/marvels-iron-fist-2x01-the-fury-of-iron-fist",
+        "airdate": "2018-09-07"
+      },
+      {
+        "season": 2,
+        "number": 2,
+        "name": "The City's Not for Burning",
+        "minutes": 53,
+        "url": "https://www.tvmaze.com/episodes/1506176/marvels-iron-fist-2x02-the-citys-not-for-burning",
+        "airdate": "2018-09-07"
+      },
+      {
+        "season": 2,
+        "number": 3,
+        "name": "This Deadly Secret...",
+        "minutes": 52,
+        "url": "https://www.tvmaze.com/episodes/1506177/marvels-iron-fist-2x03-this-deadly-secret",
+        "airdate": "2018-09-07"
+      },
+      {
+        "season": 2,
+        "number": 4,
+        "name": "Target: Iron Fist",
+        "minutes": 53,
+        "url": "https://www.tvmaze.com/episodes/1506178/marvels-iron-fist-2x04-target-iron-fist",
+        "airdate": "2018-09-07"
+      },
+      {
+        "season": 2,
+        "number": 5,
+        "name": "Heart of the Dragon",
+        "minutes": 55,
+        "url": "https://www.tvmaze.com/episodes/1506179/marvels-iron-fist-2x05-heart-of-the-dragon",
+        "airdate": "2018-09-07"
+      },
+      {
+        "season": 2,
+        "number": 6,
+        "name": "The Dragon Dies at Dawn",
+        "minutes": 51,
+        "url": "https://www.tvmaze.com/episodes/1506180/marvels-iron-fist-2x06-the-dragon-dies-at-dawn",
+        "airdate": "2018-09-07"
+      },
+      {
+        "season": 2,
+        "number": 7,
+        "name": "Morning of the Mindstorm",
+        "minutes": 54,
+        "url": "https://www.tvmaze.com/episodes/1506181/marvels-iron-fist-2x07-morning-of-the-mindstorm",
+        "airdate": "2018-09-07"
+      },
+      {
+        "season": 2,
+        "number": 8,
+        "name": "Citadel on the Edge of Vengeance",
+        "minutes": 49,
+        "url": "https://www.tvmaze.com/episodes/1506182/marvels-iron-fist-2x08-citadel-on-the-edge-of-vengeance",
+        "airdate": "2018-09-07"
+      },
+      {
+        "season": 2,
+        "number": 9,
+        "name": "War Without End",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/1506183/marvels-iron-fist-2x09-war-without-end",
+        "airdate": "2018-09-07"
+      },
+      {
+        "season": 2,
+        "number": 10,
+        "name": "A Duel of Iron",
+        "minutes": 52,
+        "url": "https://www.tvmaze.com/episodes/1506184/marvels-iron-fist-2x10-a-duel-of-iron",
+        "airdate": "2018-09-07"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 526,
+    "checkedAt": "2026-10-13"
+  },
+  "venom-2018-1": {
+    "title": "Venom",
+    "sourceTitle": "Venom (2018 film)",
+    "source": "https://en.wikipedia.org/wiki/Venom_(2018_film)",
+    "kind": "film",
+    "totalMinutes": 112,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "jessicajoness2-2018-1": {
+    "title": "Jessica Jones S2",
+    "sourceTitle": "Marvel's Jessica Jones",
+    "source": "https://www.tvmaze.com/shows/1370/marvels-jessica-jones",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 2,
+        "number": 1,
+        "name": "AKA Start at the Beginning",
+        "minutes": 54,
+        "url": "https://www.tvmaze.com/episodes/1370989/marvels-jessica-jones-2x01-aka-start-at-the-beginning",
+        "airdate": "2018-03-08"
+      },
+      {
+        "season": 2,
+        "number": 2,
+        "name": "AKA Freak Accident",
+        "minutes": 56,
+        "url": "https://www.tvmaze.com/episodes/1418945/marvels-jessica-jones-2x02-aka-freak-accident",
+        "airdate": "2018-03-08"
+      },
+      {
+        "season": 2,
+        "number": 3,
+        "name": "AKA Sole Survivor",
+        "minutes": 54,
+        "url": "https://www.tvmaze.com/episodes/1418946/marvels-jessica-jones-2x03-aka-sole-survivor",
+        "airdate": "2018-03-08"
+      },
+      {
+        "season": 2,
+        "number": 4,
+        "name": "AKA God Help the Hobo",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/1418947/marvels-jessica-jones-2x04-aka-god-help-the-hobo",
+        "airdate": "2018-03-08"
+      },
+      {
+        "season": 2,
+        "number": 5,
+        "name": "AKA The Octopus",
+        "minutes": 52,
+        "url": "https://www.tvmaze.com/episodes/1418948/marvels-jessica-jones-2x05-aka-the-octopus",
+        "airdate": "2018-03-08"
+      },
+      {
+        "season": 2,
+        "number": 6,
+        "name": "AKA Facetime",
+        "minutes": 49,
+        "url": "https://www.tvmaze.com/episodes/1418949/marvels-jessica-jones-2x06-aka-facetime",
+        "airdate": "2018-03-08"
+      },
+      {
+        "season": 2,
+        "number": 7,
+        "name": "AKA I Want Your Cray Cray",
+        "minutes": 54,
+        "url": "https://www.tvmaze.com/episodes/1418950/marvels-jessica-jones-2x07-aka-i-want-your-cray-cray",
+        "airdate": "2018-03-08"
+      },
+      {
+        "season": 2,
+        "number": 8,
+        "name": "AKA Ain't We Got Fun",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/1418951/marvels-jessica-jones-2x08-aka-aint-we-got-fun",
+        "airdate": "2018-03-08"
+      },
+      {
+        "season": 2,
+        "number": 9,
+        "name": "AKA Shark in the Bathtub, Monster in the Bed",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/1418952/marvels-jessica-jones-2x09-aka-shark-in-the-bathtub-monster-in-the-bed",
+        "airdate": "2018-03-08"
+      },
+      {
+        "season": 2,
+        "number": 10,
+        "name": "AKA Pork Chop",
+        "minutes": 55,
+        "url": "https://www.tvmaze.com/episodes/1418953/marvels-jessica-jones-2x10-aka-pork-chop",
+        "airdate": "2018-03-08"
+      },
+      {
+        "season": 2,
+        "number": 11,
+        "name": "AKA Three Lives and Counting",
+        "minutes": 49,
+        "url": "https://www.tvmaze.com/episodes/1418954/marvels-jessica-jones-2x11-aka-three-lives-and-counting",
+        "airdate": "2018-03-08"
+      },
+      {
+        "season": 2,
+        "number": 12,
+        "name": "AKA Pray for My Patsy",
+        "minutes": 47,
+        "url": "https://www.tvmaze.com/episodes/1418955/marvels-jessica-jones-2x12-aka-pray-for-my-patsy",
+        "airdate": "2018-03-08"
+      },
+      {
+        "season": 2,
+        "number": 13,
+        "name": "AKA Playland",
+        "minutes": 53,
+        "url": "https://www.tvmaze.com/episodes/1418956/marvels-jessica-jones-2x13-aka-playland",
+        "airdate": "2018-03-08"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 673,
+    "checkedAt": "2026-10-13"
+  },
+  "blackpanther-2018-1": {
+    "title": "Black Panther",
+    "sourceTitle": "Black Panther (film)",
+    "source": "https://en.wikipedia.org/wiki/Black_Panther_(film)",
+    "kind": "film",
+    "totalMinutes": 134,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "lukecages2-2018-1": {
+    "title": "Luke Cage S2",
+    "sourceTitle": "Marvel's Luke Cage",
+    "source": "https://www.tvmaze.com/shows/2174/marvels-luke-cage",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 2,
+        "number": 1,
+        "name": "Soul Brother #1",
+        "minutes": 56,
+        "url": "https://www.tvmaze.com/episodes/1421660/marvels-luke-cage-2x01-soul-brother-1",
+        "airdate": "2018-06-22"
+      },
+      {
+        "season": 2,
+        "number": 2,
+        "name": "Straighten It Out",
+        "minutes": 55,
+        "url": "https://www.tvmaze.com/episodes/1459805/marvels-luke-cage-2x02-straighten-it-out",
+        "airdate": "2018-06-22"
+      },
+      {
+        "season": 2,
+        "number": 3,
+        "name": "Wig Out",
+        "minutes": 60,
+        "url": "https://www.tvmaze.com/episodes/1459806/marvels-luke-cage-2x03-wig-out",
+        "airdate": "2018-06-22"
+      },
+      {
+        "season": 2,
+        "number": 4,
+        "name": "I Get Physical",
+        "minutes": 55,
+        "url": "https://www.tvmaze.com/episodes/1459807/marvels-luke-cage-2x04-i-get-physical",
+        "airdate": "2018-06-22"
+      },
+      {
+        "season": 2,
+        "number": 5,
+        "name": "All Souled Out",
+        "minutes": 58,
+        "url": "https://www.tvmaze.com/episodes/1459808/marvels-luke-cage-2x05-all-souled-out",
+        "airdate": "2018-06-22"
+      },
+      {
+        "season": 2,
+        "number": 6,
+        "name": "The Basement",
+        "minutes": 64,
+        "url": "https://www.tvmaze.com/episodes/1459809/marvels-luke-cage-2x06-the-basement",
+        "airdate": "2018-06-22"
+      },
+      {
+        "season": 2,
+        "number": 7,
+        "name": "On and On",
+        "minutes": 56,
+        "url": "https://www.tvmaze.com/episodes/1459810/marvels-luke-cage-2x07-on-and-on",
+        "airdate": "2018-06-22"
+      },
+      {
+        "season": 2,
+        "number": 8,
+        "name": "If It Ain't Rough, It Ain't Right",
+        "minutes": 55,
+        "url": "https://www.tvmaze.com/episodes/1459811/marvels-luke-cage-2x08-if-it-aint-rough-it-aint-right",
+        "airdate": "2018-06-22"
+      },
+      {
+        "season": 2,
+        "number": 9,
+        "name": "For Pete's Sake",
+        "minutes": 59,
+        "url": "https://www.tvmaze.com/episodes/1459812/marvels-luke-cage-2x09-for-petes-sake",
+        "airdate": "2018-06-22"
+      },
+      {
+        "season": 2,
+        "number": 10,
+        "name": "The Main Ingredient",
+        "minutes": 59,
+        "url": "https://www.tvmaze.com/episodes/1459813/marvels-luke-cage-2x10-the-main-ingredient",
+        "airdate": "2018-06-22"
+      },
+      {
+        "season": 2,
+        "number": 11,
+        "name": "The Creator",
+        "minutes": 56,
+        "url": "https://www.tvmaze.com/episodes/1459814/marvels-luke-cage-2x11-the-creator",
+        "airdate": "2018-06-22"
+      },
+      {
+        "season": 2,
+        "number": 12,
+        "name": "Can't Front on Me",
+        "minutes": 62,
+        "url": "https://www.tvmaze.com/episodes/1459815/marvels-luke-cage-2x12-cant-front-on-me",
+        "airdate": "2018-06-22"
+      },
+      {
+        "season": 2,
+        "number": 13,
+        "name": "They Reminisce Over You",
+        "minutes": 69,
+        "url": "https://www.tvmaze.com/episodes/1459816/marvels-luke-cage-2x13-they-reminisce-over-you",
+        "airdate": "2018-06-22"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 764,
+    "checkedAt": "2026-10-13"
+  },
+  "avengersinfinitywar-2018-1": {
+    "title": "Avengers: Infinity War",
+    "sourceTitle": "Avengers: Infinity War",
+    "source": "https://en.wikipedia.org/wiki/Avengers%3A_Infinity_War",
+    "kind": "film",
+    "totalMinutes": 149,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "daredevils3-2018-1": {
+    "title": "Daredevil S3",
+    "sourceTitle": "Marvel's Daredevil",
+    "source": "https://www.tvmaze.com/shows/1369/marvels-daredevil",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 3,
+        "number": 1,
+        "name": "Resurrection",
+        "minutes": 53,
+        "url": "https://www.tvmaze.com/episodes/1533790/marvels-daredevil-3x01-resurrection",
+        "airdate": "2018-10-19"
+      },
+      {
+        "season": 3,
+        "number": 2,
+        "name": "Please",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/1548988/marvels-daredevil-3x02-please",
+        "airdate": "2018-10-19"
+      },
+      {
+        "season": 3,
+        "number": 3,
+        "name": "No Good Deed",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/1548989/marvels-daredevil-3x03-no-good-deed",
+        "airdate": "2018-10-19"
+      },
+      {
+        "season": 3,
+        "number": 4,
+        "name": "Blindsided",
+        "minutes": 54,
+        "url": "https://www.tvmaze.com/episodes/1548990/marvels-daredevil-3x04-blindsided",
+        "airdate": "2018-10-19"
+      },
+      {
+        "season": 3,
+        "number": 5,
+        "name": "The Perfect Game",
+        "minutes": 49,
+        "url": "https://www.tvmaze.com/episodes/1548991/marvels-daredevil-3x05-the-perfect-game",
+        "airdate": "2018-10-19"
+      },
+      {
+        "season": 3,
+        "number": 6,
+        "name": "The Devil You Know",
+        "minutes": 54,
+        "url": "https://www.tvmaze.com/episodes/1548992/marvels-daredevil-3x06-the-devil-you-know",
+        "airdate": "2018-10-19"
+      },
+      {
+        "season": 3,
+        "number": 7,
+        "name": "Aftermath",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/1548993/marvels-daredevil-3x07-aftermath",
+        "airdate": "2018-10-19"
+      },
+      {
+        "season": 3,
+        "number": 8,
+        "name": "Upstairs/Downstairs",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/1548994/marvels-daredevil-3x08-upstairsdownstairs",
+        "airdate": "2018-10-19"
+      },
+      {
+        "season": 3,
+        "number": 9,
+        "name": "Revelations",
+        "minutes": 54,
+        "url": "https://www.tvmaze.com/episodes/1548995/marvels-daredevil-3x09-revelations",
+        "airdate": "2018-10-19"
+      },
+      {
+        "season": 3,
+        "number": 10,
+        "name": "Karen",
+        "minutes": 46,
+        "url": "https://www.tvmaze.com/episodes/1548996/marvels-daredevil-3x10-karen",
+        "airdate": "2018-10-19"
+      },
+      {
+        "season": 3,
+        "number": 11,
+        "name": "Reunion",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/1548997/marvels-daredevil-3x11-reunion",
+        "airdate": "2018-10-19"
+      },
+      {
+        "season": 3,
+        "number": 12,
+        "name": "One Last Shot",
+        "minutes": 55,
+        "url": "https://www.tvmaze.com/episodes/1548998/marvels-daredevil-3x12-one-last-shot",
+        "airdate": "2018-10-19"
+      },
+      {
+        "season": 3,
+        "number": 13,
+        "name": "A New Napkin",
+        "minutes": 54,
+        "url": "https://www.tvmaze.com/episodes/1548999/marvels-daredevil-3x13-a-new-napkin",
+        "airdate": "2018-10-19"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 669,
+    "checkedAt": "2026-10-13"
+  },
+  "antmanandwasp-2018-1": {
+    "title": "Ant-Man and the Wasp",
+    "sourceTitle": "Ant-Man and the Wasp",
+    "source": "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp",
+    "kind": "film",
+    "totalMinutes": 118,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "spidermanintospiderverse-2018-1": {
+    "title": "Spider-Man: Into the Spiderverse",
+    "sourceTitle": "Spider-Man: Into the Spider-Verse",
+    "source": "https://en.wikipedia.org/wiki/Spider-Man%3A_Into_the_Spider-Verse",
+    "kind": "film",
+    "totalMinutes": 117,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "xmendarkphoenix-2019-1": {
+    "title": "X-Men: Dark Phoenix",
+    "sourceTitle": "Dark Phoenix (film)",
+    "source": "https://en.wikipedia.org/wiki/Dark_Phoenix_(film)",
+    "kind": "film",
+    "totalMinutes": 114,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "punishers2-2019-1": {
+    "title": "The Punisher S2",
+    "sourceTitle": "Marvel's The Punisher",
+    "source": "https://www.tvmaze.com/shows/16544/marvels-the-punisher",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 2,
+        "number": 1,
+        "name": "Roadhouse Blues",
+        "minutes": 53,
+        "url": "https://www.tvmaze.com/episodes/1585983/marvels-the-punisher-2x01-roadhouse-blues",
+        "airdate": "2019-01-18"
+      },
+      {
+        "season": 2,
+        "number": 2,
+        "name": "Fight or Flight",
+        "minutes": 55,
+        "url": "https://www.tvmaze.com/episodes/1593302/marvels-the-punisher-2x02-fight-or-flight",
+        "airdate": "2019-01-18"
+      },
+      {
+        "season": 2,
+        "number": 3,
+        "name": "Trouble the Water",
+        "minutes": 51,
+        "url": "https://www.tvmaze.com/episodes/1593303/marvels-the-punisher-2x03-trouble-the-water",
+        "airdate": "2019-01-18"
+      },
+      {
+        "season": 2,
+        "number": 4,
+        "name": "Scar Tissue",
+        "minutes": 57,
+        "url": "https://www.tvmaze.com/episodes/1593304/marvels-the-punisher-2x04-scar-tissue",
+        "airdate": "2019-01-18"
+      },
+      {
+        "season": 2,
+        "number": 5,
+        "name": "One-Eyed Jacks",
+        "minutes": 51,
+        "url": "https://www.tvmaze.com/episodes/1593305/marvels-the-punisher-2x05-one-eyed-jacks",
+        "airdate": "2019-01-18"
+      },
+      {
+        "season": 2,
+        "number": 6,
+        "name": "Nakazat",
+        "minutes": 56,
+        "url": "https://www.tvmaze.com/episodes/1593306/marvels-the-punisher-2x06-nakazat",
+        "airdate": "2019-01-18"
+      },
+      {
+        "season": 2,
+        "number": 7,
+        "name": "One Bad Day",
+        "minutes": 52,
+        "url": "https://www.tvmaze.com/episodes/1593307/marvels-the-punisher-2x07-one-bad-day",
+        "airdate": "2019-01-18"
+      },
+      {
+        "season": 2,
+        "number": 8,
+        "name": "My Brother's Keeper",
+        "minutes": 48,
+        "url": "https://www.tvmaze.com/episodes/1593308/marvels-the-punisher-2x08-my-brothers-keeper",
+        "airdate": "2019-01-18"
+      },
+      {
+        "season": 2,
+        "number": 9,
+        "name": "Flustercluck",
+        "minutes": 58,
+        "url": "https://www.tvmaze.com/episodes/1593309/marvels-the-punisher-2x09-flustercluck",
+        "airdate": "2019-01-18"
+      },
+      {
+        "season": 2,
+        "number": 10,
+        "name": "The Dark Hearts of Men",
+        "minutes": 47,
+        "url": "https://www.tvmaze.com/episodes/1593310/marvels-the-punisher-2x10-the-dark-hearts-of-men",
+        "airdate": "2019-01-18"
+      },
+      {
+        "season": 2,
+        "number": 11,
+        "name": "The Abyss",
+        "minutes": 55,
+        "url": "https://www.tvmaze.com/episodes/1593311/marvels-the-punisher-2x11-the-abyss",
+        "airdate": "2019-01-18"
+      },
+      {
+        "season": 2,
+        "number": 12,
+        "name": "Collision Course",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/1593312/marvels-the-punisher-2x12-collision-course",
+        "airdate": "2019-01-18"
+      },
+      {
+        "season": 2,
+        "number": 13,
+        "name": "The Whirlwind",
+        "minutes": 57,
+        "url": "https://www.tvmaze.com/episodes/1593313/marvels-the-punisher-2x13-the-whirlwind",
+        "airdate": "2019-01-18"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 690,
+    "checkedAt": "2026-10-13"
+  },
+  "captainmarvel-2019-1": {
+    "title": "Captain Marvel",
+    "sourceTitle": "Captain Marvel (film)",
+    "source": "https://en.wikipedia.org/wiki/Captain_Marvel_(film)",
+    "kind": "film",
+    "totalMinutes": 124,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "jessicajoness3-2019-1": {
+    "title": "Jessica Jones S3",
+    "sourceTitle": "Marvel's Jessica Jones",
+    "source": "https://www.tvmaze.com/shows/1370/marvels-jessica-jones",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 3,
+        "number": 1,
+        "name": "A.K.A The Perfect Burger",
+        "minutes": 52,
+        "url": "https://www.tvmaze.com/episodes/1661807/marvels-jessica-jones-3x01-aka-the-perfect-burger",
+        "airdate": "2019-06-14"
+      },
+      {
+        "season": 3,
+        "number": 2,
+        "name": "A.K.A You're Welcome",
+        "minutes": 55,
+        "url": "https://www.tvmaze.com/episodes/1669561/marvels-jessica-jones-3x02-aka-youre-welcome",
+        "airdate": "2019-06-14"
+      },
+      {
+        "season": 3,
+        "number": 3,
+        "name": "A.K.A I Have No Spleen",
+        "minutes": 56,
+        "url": "https://www.tvmaze.com/episodes/1669562/marvels-jessica-jones-3x03-aka-i-have-no-spleen",
+        "airdate": "2019-06-14"
+      },
+      {
+        "season": 3,
+        "number": 4,
+        "name": "A.K.A Customer Service is Standing By",
+        "minutes": 46,
+        "url": "https://www.tvmaze.com/episodes/1669563/marvels-jessica-jones-3x04-aka-customer-service-is-standing-by",
+        "airdate": "2019-06-14"
+      },
+      {
+        "season": 3,
+        "number": 5,
+        "name": "A.K.A I Wish",
+        "minutes": 53,
+        "url": "https://www.tvmaze.com/episodes/1669564/marvels-jessica-jones-3x05-aka-i-wish",
+        "airdate": "2019-06-14"
+      },
+      {
+        "season": 3,
+        "number": 6,
+        "name": "A.K.A Sorry Face",
+        "minutes": 53,
+        "url": "https://www.tvmaze.com/episodes/1669565/marvels-jessica-jones-3x06-aka-sorry-face",
+        "airdate": "2019-06-14"
+      },
+      {
+        "season": 3,
+        "number": 7,
+        "name": "A.K.A The Double Half-Wappinger",
+        "minutes": 51,
+        "url": "https://www.tvmaze.com/episodes/1669566/marvels-jessica-jones-3x07-aka-the-double-half-wappinger",
+        "airdate": "2019-06-14"
+      },
+      {
+        "season": 3,
+        "number": 8,
+        "name": "A.K.A Camera Friendly",
+        "minutes": 44,
+        "url": "https://www.tvmaze.com/episodes/1669567/marvels-jessica-jones-3x08-aka-camera-friendly",
+        "airdate": "2019-06-14"
+      },
+      {
+        "season": 3,
+        "number": 9,
+        "name": "A.K.A I Did Something Today",
+        "minutes": 52,
+        "url": "https://www.tvmaze.com/episodes/1669568/marvels-jessica-jones-3x09-aka-i-did-something-today",
+        "airdate": "2019-06-14"
+      },
+      {
+        "season": 3,
+        "number": 10,
+        "name": "A.K.A Hero Pants",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/1669569/marvels-jessica-jones-3x10-aka-hero-pants",
+        "airdate": "2019-06-14"
+      },
+      {
+        "season": 3,
+        "number": 11,
+        "name": "A.K.A Hellcat",
+        "minutes": 48,
+        "url": "https://www.tvmaze.com/episodes/1669570/marvels-jessica-jones-3x11-aka-hellcat",
+        "airdate": "2019-06-14"
+      },
+      {
+        "season": 3,
+        "number": 12,
+        "name": "A.K.A A Lotta Worms",
+        "minutes": 49,
+        "url": "https://www.tvmaze.com/episodes/1669571/marvels-jessica-jones-3x12-aka-a-lotta-worms",
+        "airdate": "2019-06-14"
+      },
+      {
+        "season": 3,
+        "number": 13,
+        "name": "A.K.A Everything",
+        "minutes": 51,
+        "url": "https://www.tvmaze.com/episodes/1669572/marvels-jessica-jones-3x13-aka-everything",
+        "airdate": "2019-06-14"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 660,
+    "checkedAt": "2026-10-13"
+  },
+  "avengersendgame-2019-1": {
+    "title": "Avengers: Endgame",
+    "sourceTitle": "Avengers: Endgame",
+    "source": "https://en.wikipedia.org/wiki/Avengers%3A_Endgame",
+    "kind": "film",
+    "totalMinutes": 181,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "spidermanfarfromhome-2019-1": {
+    "title": "Spider-Man: Far from Home",
+    "sourceTitle": "Spider-Man: Far From Home",
+    "source": "https://en.wikipedia.org/wiki/Spider-Man%3A_Far_From_Home",
+    "kind": "film",
+    "totalMinutes": 129,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "agentsofshields6-2019-1": {
+    "title": "Agents of Shield Season 6",
+    "sourceTitle": "Marvel's Agents of S.H.I.E.L.D.",
+    "source": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/6",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 6,
+        "number": 1,
+        "name": "Missing Pieces",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/6",
+        "airdate": "2019-05-10"
+      },
+      {
+        "season": 6,
+        "number": 2,
+        "name": "Window of Opportunity",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/6",
+        "airdate": "2019-05-17"
+      },
+      {
+        "season": 6,
+        "number": 3,
+        "name": "Fear and Loathing on the Planet of Kitson",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/6",
+        "airdate": "2019-05-24"
+      },
+      {
+        "season": 6,
+        "number": 4,
+        "name": "Code Yellow",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/6",
+        "airdate": "2019-05-31"
+      },
+      {
+        "season": 6,
+        "number": 5,
+        "name": "The Other Thing",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/6",
+        "airdate": "2019-06-14"
+      },
+      {
+        "season": 6,
+        "number": 6,
+        "name": "Inescapable",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/6",
+        "airdate": "2019-06-21"
+      },
+      {
+        "season": 6,
+        "number": 7,
+        "name": "Toldja",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/6",
+        "airdate": "2019-06-28"
+      },
+      {
+        "season": 6,
+        "number": 8,
+        "name": "Collision Course (Part I)",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/6",
+        "airdate": "2019-07-05"
+      },
+      {
+        "season": 6,
+        "number": 9,
+        "name": "Collision Course (Part II)",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/6",
+        "airdate": "2019-07-12"
+      },
+      {
+        "season": 6,
+        "number": 10,
+        "name": "Leap",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/6",
+        "airdate": "2019-07-19"
+      },
+      {
+        "season": 6,
+        "number": 11,
+        "name": "From the Ashes",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/6",
+        "airdate": "2019-07-26"
+      },
+      {
+        "season": 6,
+        "number": 12,
+        "name": "The Sign",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/6",
+        "airdate": "2019-08-02"
+      },
+      {
+        "season": 6,
+        "number": 13,
+        "name": "New Life",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/6",
+        "airdate": "2019-08-02"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 551,
+    "checkedAt": "2026-10-13"
+  },
+  "agentsofshields7-2020-1": {
+    "title": "Agents of Shield Season 7",
+    "sourceTitle": "Marvel's Agents of S.H.I.E.L.D.",
+    "source": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/7",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 7,
+        "number": 1,
+        "name": "The New Deal",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/7",
+        "airdate": "2020-05-27"
+      },
+      {
+        "season": 7,
+        "number": 2,
+        "name": "Know Your Onions",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/7",
+        "airdate": "2020-06-03"
+      },
+      {
+        "season": 7,
+        "number": 3,
+        "name": "Alien Commies from the Future!",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/7",
+        "airdate": "2020-06-10"
+      },
+      {
+        "season": 7,
+        "number": 4,
+        "name": "Out of the Past",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/7",
+        "airdate": "2020-06-17"
+      },
+      {
+        "season": 7,
+        "number": 5,
+        "name": "A Trout in the Milk",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/7",
+        "airdate": "2020-06-24"
+      },
+      {
+        "season": 7,
+        "number": 6,
+        "name": "Adapt or Die",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/7",
+        "airdate": "2020-07-01"
+      },
+      {
+        "season": 7,
+        "number": 7,
+        "name": "The Totally Excellent Adventures of Mack and the D",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/7",
+        "airdate": "2020-07-08"
+      },
+      {
+        "season": 7,
+        "number": 8,
+        "name": "After, Before",
+        "minutes": 42,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/7",
+        "airdate": "2020-07-15"
+      },
+      {
+        "season": 7,
+        "number": 9,
+        "name": "As I Have Always Been",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/7",
+        "airdate": "2020-07-22"
+      },
+      {
+        "season": 7,
+        "number": 10,
+        "name": "Stolen",
+        "minutes": 41,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/7",
+        "airdate": "2020-07-29"
+      },
+      {
+        "season": 7,
+        "number": 11,
+        "name": "Brand New Day",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/7",
+        "airdate": "2020-08-05"
+      },
+      {
+        "season": 7,
+        "number": 12,
+        "name": "The End Is at Hand",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/7",
+        "airdate": "2020-08-12"
+      },
+      {
+        "season": 7,
+        "number": 13,
+        "name": "What We're Fighting For",
+        "minutes": 43,
+        "url": "https://thetvdb.com/series/marvels-agents-of-shield/seasons/official/7",
+        "airdate": "2020-08-12"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 553,
+    "checkedAt": "2026-10-13"
+  },
+  "blackwidow-2021-1": {
+    "title": "Black Widow",
+    "sourceTitle": "Black Widow (2021 film)",
+    "source": "https://en.wikipedia.org/wiki/Black_Widow_(2021_film)",
+    "kind": "film",
+    "totalMinutes": 134,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "shangchiandlegendoftenrings-2021-1": {
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "sourceTitle": "Shang-Chi and the Legend of the Ten Rings",
+    "source": "https://en.wikipedia.org/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings",
+    "kind": "film",
+    "totalMinutes": 132,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "venomlettherebecarnage-2021-1": {
+    "title": "Venom: Let there be Carnage",
+    "sourceTitle": "Venom: Let There Be Carnage",
+    "source": "https://en.wikipedia.org/wiki/Venom%3A_Let_There_Be_Carnage",
+    "kind": "film",
+    "totalMinutes": 97,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "whatifs1-2021-1": {
+    "title": "What If...? Season 1",
+    "sourceTitle": "What If...?",
+    "source": "https://www.tvmaze.com/shows/41750/what-if",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "What If… Captain Carter Were the First Avenger?",
+        "minutes": 33,
+        "url": "https://www.tvmaze.com/episodes/2127192/what-if-1x01-what-if-captain-carter-were-the-first-avenger",
+        "airdate": "2021-08-11"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "What If… T'Challa Became a Star-Lord?",
+        "minutes": 32,
+        "url": "https://www.tvmaze.com/episodes/2127214/what-if-1x02-what-if-tchalla-became-a-star-lord",
+        "airdate": "2021-08-18"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "What If... The World Lost its Mightiest Heroes?",
+        "minutes": 32,
+        "url": "https://www.tvmaze.com/episodes/2127216/what-if-1x03-what-if-the-world-lost-its-mightiest-heroes",
+        "airdate": "2021-08-25"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "What If… Doctor Strange Lost His Heart Instead of His Hands?",
+        "minutes": 36,
+        "url": "https://www.tvmaze.com/episodes/2127217/what-if-1x04-what-if-doctor-strange-lost-his-heart-instead-of-his-hands",
+        "airdate": "2021-09-01"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "What If... Zombies!?",
+        "minutes": 30,
+        "url": "https://www.tvmaze.com/episodes/2127218/what-if-1x05-what-if-zombies",
+        "airdate": "2021-09-08"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "What If… Killmonger Rescued Tony Stark?",
+        "minutes": 33,
+        "url": "https://www.tvmaze.com/episodes/2127220/what-if-1x06-what-if-killmonger-rescued-tony-stark",
+        "airdate": "2021-09-15"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "What If… Thor Were an Only Child?",
+        "minutes": 33,
+        "url": "https://www.tvmaze.com/episodes/2127221/what-if-1x07-what-if-thor-were-an-only-child",
+        "airdate": "2021-09-22"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "What If... Ultron Won?",
+        "minutes": 30,
+        "url": "https://www.tvmaze.com/episodes/2127222/what-if-1x08-what-if-ultron-won",
+        "airdate": "2021-09-29"
+      },
+      {
+        "season": 1,
+        "number": 9,
+        "name": "What If... The Watcher Broke His Oath?",
+        "minutes": 35,
+        "url": "https://www.tvmaze.com/episodes/2127223/what-if-1x09-what-if-the-watcher-broke-his-oath",
+        "airdate": "2021-10-06"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 294,
+    "checkedAt": "2026-10-13"
+  },
+  "eternals-2021-1": {
+    "title": "Eternals",
+    "sourceTitle": "Eternals (film)",
+    "source": "https://en.wikipedia.org/wiki/Eternals_(film)",
+    "kind": "film",
+    "totalMinutes": 156,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "hawkeye-2021-1": {
+    "title": "Hawkeye",
+    "sourceTitle": "Hawkeye",
+    "source": "https://www.tvmaze.com/shows/43102/hawkeye",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Never Meet Your Heroes",
+        "minutes": 47,
+        "url": "https://www.tvmaze.com/episodes/2138092/hawkeye-1x01-never-meet-your-heroes",
+        "airdate": "2021-11-24"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Hide and Seek",
+        "minutes": 49,
+        "url": "https://www.tvmaze.com/episodes/2194111/hawkeye-1x02-hide-and-seek",
+        "airdate": "2021-11-24"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Echoes",
+        "minutes": 44,
+        "url": "https://www.tvmaze.com/episodes/2195971/hawkeye-1x03-echoes",
+        "airdate": "2021-12-01"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Partners, Am I Right?",
+        "minutes": 41,
+        "url": "https://www.tvmaze.com/episodes/2196300/hawkeye-1x04-partners-am-i-right",
+        "airdate": "2021-12-08"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Ronin",
+        "minutes": 45,
+        "url": "https://www.tvmaze.com/episodes/2196301/hawkeye-1x05-ronin",
+        "airdate": "2021-12-15"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "So This Is Christmas?",
+        "minutes": 62,
+        "url": "https://www.tvmaze.com/episodes/2196302/hawkeye-1x06-so-this-is-christmas",
+        "airdate": "2021-12-22"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 288,
+    "checkedAt": "2026-10-13"
+  },
+  "spidermannowayhome-2021-1": {
+    "title": "Spider-Man: No Way Home",
+    "sourceTitle": "Spider-Man: No Way Home",
+    "source": "https://en.wikipedia.org/wiki/Spider-Man%3A_No_Way_Home",
+    "kind": "film",
+    "totalMinutes": 148,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "wandavision-2021-1": {
+    "title": "WandaVision",
+    "sourceTitle": "WandaVision",
+    "source": "https://www.tvmaze.com/shows/41748/wandavision",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Filmed Before a Live Studio Audience",
+        "minutes": 27,
+        "url": "https://www.tvmaze.com/episodes/1969172/wandavision-1x01-filmed-before-a-live-studio-audience",
+        "airdate": "2021-01-15"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Don't Touch That Dial",
+        "minutes": 34,
+        "url": "https://www.tvmaze.com/episodes/2001015/wandavision-1x02-dont-touch-that-dial",
+        "airdate": "2021-01-15"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Now in Color",
+        "minutes": 30,
+        "url": "https://www.tvmaze.com/episodes/2004701/wandavision-1x03-now-in-color",
+        "airdate": "2021-01-22"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "We Interrupt This Program",
+        "minutes": 33,
+        "url": "https://www.tvmaze.com/episodes/2008161/wandavision-1x04-we-interrupt-this-program",
+        "airdate": "2021-01-29"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "On a Very Special Episode…",
+        "minutes": 38,
+        "url": "https://www.tvmaze.com/episodes/2008163/wandavision-1x05-on-a-very-special-episode",
+        "airdate": "2021-02-05"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "All-New Halloween Spooktacular!",
+        "minutes": 35,
+        "url": "https://www.tvmaze.com/episodes/2008164/wandavision-1x06-all-new-halloween-spooktacular",
+        "airdate": "2021-02-12"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "Breaking the Fourth Wall",
+        "minutes": 34,
+        "url": "https://www.tvmaze.com/episodes/2008165/wandavision-1x07-breaking-the-fourth-wall",
+        "airdate": "2021-02-19"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "Previously On",
+        "minutes": 43,
+        "url": "https://www.tvmaze.com/episodes/2008166/wandavision-1x08-previously-on",
+        "airdate": "2021-02-26"
+      },
+      {
+        "season": 1,
+        "number": 9,
+        "name": "The Series Finale",
+        "minutes": 47,
+        "url": "https://www.tvmaze.com/episodes/2008167/wandavision-1x09-the-series-finale",
+        "airdate": "2021-03-05"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 321,
+    "checkedAt": "2026-10-13"
+  },
+  "falconandwintersoldier-2021-1": {
+    "title": "The Falcon and the Winter Soldier",
+    "sourceTitle": "The Falcon and The Winter Soldier",
+    "source": "https://www.tvmaze.com/shows/41749/the-falcon-and-the-winter-soldier",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "New World Order",
+        "minutes": 47,
+        "url": "https://www.tvmaze.com/episodes/1984013/the-falcon-and-the-winter-soldier-1x01-new-world-order",
+        "airdate": "2021-03-19"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "The Star Spangled Man",
+        "minutes": 47,
+        "url": "https://www.tvmaze.com/episodes/2053381/the-falcon-and-the-winter-soldier-1x02-the-star-spangled-man",
+        "airdate": "2021-03-26"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Power Broker",
+        "minutes": 51,
+        "url": "https://www.tvmaze.com/episodes/2053593/the-falcon-and-the-winter-soldier-1x03-power-broker",
+        "airdate": "2021-04-02"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "The Whole World Is Watching",
+        "minutes": 51,
+        "url": "https://www.tvmaze.com/episodes/2053594/the-falcon-and-the-winter-soldier-1x04-the-whole-world-is-watching",
+        "airdate": "2021-04-09"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Truth",
+        "minutes": 57,
+        "url": "https://www.tvmaze.com/episodes/2053595/the-falcon-and-the-winter-soldier-1x05-truth",
+        "airdate": "2021-04-16"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "One World, One People",
+        "minutes": 49,
+        "url": "https://www.tvmaze.com/episodes/2053596/the-falcon-and-the-winter-soldier-1x06-one-world-one-people",
+        "airdate": "2021-04-23"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 302,
+    "checkedAt": "2026-10-13"
+  },
+  "lokis1-2021-1": {
+    "title": "Loki Season 1",
+    "sourceTitle": "Loki",
+    "source": "https://www.tvmaze.com/shows/41007/loki",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Glorious Purpose",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/1984092/loki-1x01-glorious-purpose",
+        "airdate": "2021-06-09"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "The Variant",
+        "minutes": 53,
+        "url": "https://www.tvmaze.com/episodes/2095474/loki-1x02-the-variant",
+        "airdate": "2021-06-16"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Lamentis",
+        "minutes": 41,
+        "url": "https://www.tvmaze.com/episodes/2095475/loki-1x03-lamentis",
+        "airdate": "2021-06-23"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "The Nexus Event",
+        "minutes": 48,
+        "url": "https://www.tvmaze.com/episodes/2095476/loki-1x04-the-nexus-event",
+        "airdate": "2021-06-30"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Journey Into Mystery",
+        "minutes": 48,
+        "url": "https://www.tvmaze.com/episodes/2095477/loki-1x05-journey-into-mystery",
+        "airdate": "2021-07-07"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "For All Time. Always.",
+        "minutes": 45,
+        "url": "https://www.tvmaze.com/episodes/2095478/loki-1x06-for-all-time-always",
+        "airdate": "2021-07-14"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 285,
+    "checkedAt": "2026-10-13"
+  },
+  "doctorstrangeinmultiverseofmadness-2022-1": {
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "sourceTitle": "Doctor Strange in the Multiverse of Madness",
+    "source": "https://en.wikipedia.org/wiki/Doctor_Strange_in_the_Multiverse_of_Madness",
+    "kind": "film",
+    "totalMinutes": 126,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "msmarvel-2022-1": {
+    "title": "Ms. Marvel",
+    "sourceTitle": "Ms. Marvel",
+    "source": "https://www.tvmaze.com/shows/43519/ms-marvel",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Generation Why",
+        "minutes": 47,
+        "url": "https://www.tvmaze.com/episodes/2296095/ms-marvel-1x01-generation-why",
+        "airdate": "2022-06-08"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Crushed",
+        "minutes": 49,
+        "url": "https://www.tvmaze.com/episodes/2312017/ms-marvel-1x02-crushed",
+        "airdate": "2022-06-15"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Destined",
+        "minutes": 45,
+        "url": "https://www.tvmaze.com/episodes/2332737/ms-marvel-1x03-destined",
+        "airdate": "2022-06-22"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Seeing Red",
+        "minutes": 45,
+        "url": "https://www.tvmaze.com/episodes/2332743/ms-marvel-1x04-seeing-red",
+        "airdate": "2022-06-29"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Time and Again",
+        "minutes": 40,
+        "url": "https://www.tvmaze.com/episodes/2340312/ms-marvel-1x05-time-and-again",
+        "airdate": "2022-07-06"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "No Normal",
+        "minutes": 49,
+        "url": "https://www.tvmaze.com/episodes/2340313/ms-marvel-1x06-no-normal",
+        "airdate": "2022-07-13"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 275,
+    "checkedAt": "2026-10-13"
+  },
+  "thorloveandthunder-2022-1": {
+    "title": "Thor: Love and Thunder",
+    "sourceTitle": "Thor: Love and Thunder",
+    "source": "https://en.wikipedia.org/wiki/Thor%3A_Love_and_Thunder",
+    "kind": "film",
+    "totalMinutes": 119,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "moonknight-2022-1": {
+    "title": "Moon Knight",
+    "sourceTitle": "Moon Knight",
+    "source": "https://www.tvmaze.com/shows/43518/moon-knight",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "The Goldfish Problem",
+        "minutes": 47,
+        "url": "https://www.tvmaze.com/episodes/2259875/moon-knight-1x01-the-goldfish-problem",
+        "airdate": "2022-03-30"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Summon the Suit",
+        "minutes": 52,
+        "url": "https://www.tvmaze.com/episodes/2304469/moon-knight-1x02-summon-the-suit",
+        "airdate": "2022-04-06"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "The Friendly Type",
+        "minutes": 53,
+        "url": "https://www.tvmaze.com/episodes/2307772/moon-knight-1x03-the-friendly-type",
+        "airdate": "2022-04-13"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "The Tomb",
+        "minutes": 53,
+        "url": "https://www.tvmaze.com/episodes/2307773/moon-knight-1x04-the-tomb",
+        "airdate": "2022-04-20"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Asylum",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/2307774/moon-knight-1x05-asylum",
+        "airdate": "2022-04-27"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "Gods and Monsters",
+        "minutes": 43,
+        "url": "https://www.tvmaze.com/episodes/2307775/moon-knight-1x06-gods-and-monsters",
+        "airdate": "2022-05-04"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 298,
+    "checkedAt": "2026-10-13"
+  },
+  "blackpantherwakandaforever-2022-1": {
+    "title": "Black Panther: Wakanda Forever",
+    "sourceTitle": "Black Panther: Wakanda Forever",
+    "source": "https://en.wikipedia.org/wiki/Black_Panther%3A_Wakanda_Forever",
+    "kind": "film",
+    "totalMinutes": 161,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "shehulkattorneyatlaw-2022-1": {
+    "title": "She-Hulk: Attorney at Law",
+    "sourceTitle": "She-Hulk: Attorney at Law",
+    "source": "https://www.tvmaze.com/shows/43517/she-hulk-attorney-at-law",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "A Normal Amount of Rage",
+        "minutes": 38,
+        "url": "https://www.tvmaze.com/episodes/2354151/she-hulk-attorney-at-law-1x01-a-normal-amount-of-rage",
+        "airdate": "2022-08-18"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Superhuman Law",
+        "minutes": 28,
+        "url": "https://www.tvmaze.com/episodes/2354144/she-hulk-attorney-at-law-1x02-superhuman-law",
+        "airdate": "2022-08-25"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "The People vs. Emil Blonsky",
+        "minutes": 35,
+        "url": "https://www.tvmaze.com/episodes/2354142/she-hulk-attorney-at-law-1x03-the-people-vs-emil-blonsky",
+        "airdate": "2022-09-01"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Is This Not Real Magic?",
+        "minutes": 34,
+        "url": "https://www.tvmaze.com/episodes/2354141/she-hulk-attorney-at-law-1x04-is-this-not-real-magic",
+        "airdate": "2022-09-08"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Mean, Green, and Straight Poured into These Jeans",
+        "minutes": 31,
+        "url": "https://www.tvmaze.com/episodes/2354145/she-hulk-attorney-at-law-1x05-mean-green-and-straight-poured-into-these-jeans",
+        "airdate": "2022-09-15"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "Just Jen",
+        "minutes": 29,
+        "url": "https://www.tvmaze.com/episodes/2354146/she-hulk-attorney-at-law-1x06-just-jen",
+        "airdate": "2022-09-22"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "The Retreat",
+        "minutes": 32,
+        "url": "https://www.tvmaze.com/episodes/2354148/she-hulk-attorney-at-law-1x07-the-retreat",
+        "airdate": "2022-09-29"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "Ribbit and Rip it",
+        "minutes": 34,
+        "url": "https://www.tvmaze.com/episodes/2354150/she-hulk-attorney-at-law-1x08-ribbit-and-rip-it",
+        "airdate": "2022-10-06"
+      },
+      {
+        "season": 1,
+        "number": 9,
+        "name": "Whose Show Is This?",
+        "minutes": 35,
+        "url": "https://www.tvmaze.com/episodes/2328682/she-hulk-attorney-at-law-1x09-whose-show-is-this",
+        "airdate": "2022-10-13"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 296,
+    "checkedAt": "2026-10-13"
+  },
+  "guardiansofgalaxyholidayspecial-2022-1": {
+    "title": "The Guardians of the Galaxy Holiday Special",
+    "sourceTitle": "The Guardians of the Galaxy Holiday Special",
+    "source": "https://en.wikipedia.org/wiki/The_Guardians_of_the_Galaxy_Holiday_Special",
+    "kind": "film",
+    "totalMinutes": 42,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "werewolfbynight-2022-1": {
+    "title": "Werewolf by Night",
+    "sourceTitle": "Werewolf by Night (TV special)",
+    "source": "https://en.wikipedia.org/wiki/Werewolf_by_Night_(TV_special)",
+    "kind": "film",
+    "totalMinutes": 53,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "morbius-2022-1": {
+    "title": "Morbius",
+    "sourceTitle": "Morbius (film)",
+    "source": "https://en.wikipedia.org/wiki/Morbius_(film)",
+    "kind": "film",
+    "totalMinutes": 104,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "spidermanacrossspiderverse-2023-1": {
+    "title": "Spider-man: Across The Spiderverse",
+    "sourceTitle": "Spider-Man: Across the Spider-Verse",
+    "source": "https://en.wikipedia.org/wiki/Spider-Man%3A_Across_the_Spider-Verse",
+    "kind": "film",
+    "totalMinutes": 140,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "marvels-2023-1": {
+    "title": "The Marvels",
+    "sourceTitle": "The Marvels",
+    "source": "https://en.wikipedia.org/wiki/The_Marvels",
+    "kind": "film",
+    "totalMinutes": 105,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "lokis2-2023-1": {
+    "title": "Loki Season 2",
+    "sourceTitle": "Loki",
+    "source": "https://www.tvmaze.com/shows/41007/loki",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 2,
+        "number": 1,
+        "name": "Ouroboros",
+        "minutes": 48,
+        "url": "https://www.tvmaze.com/episodes/2550051/loki-2x01-ouroboros",
+        "airdate": "2023-10-05"
+      },
+      {
+        "season": 2,
+        "number": 2,
+        "name": "Breaking Brad",
+        "minutes": 52,
+        "url": "https://www.tvmaze.com/episodes/2648012/loki-2x02-breaking-brad",
+        "airdate": "2023-10-12"
+      },
+      {
+        "season": 2,
+        "number": 3,
+        "name": "1893",
+        "minutes": 54,
+        "url": "https://www.tvmaze.com/episodes/2648013/loki-2x03-1893",
+        "airdate": "2023-10-19"
+      },
+      {
+        "season": 2,
+        "number": 4,
+        "name": "Heart of the TVA",
+        "minutes": 51,
+        "url": "https://www.tvmaze.com/episodes/2648014/loki-2x04-heart-of-the-tva",
+        "airdate": "2023-10-26"
+      },
+      {
+        "season": 2,
+        "number": 5,
+        "name": "Science/Fiction",
+        "minutes": 45,
+        "url": "https://www.tvmaze.com/episodes/2648015/loki-2x05-sciencefiction",
+        "airdate": "2023-11-02"
+      },
+      {
+        "season": 2,
+        "number": 6,
+        "name": "Glorious Purpose",
+        "minutes": 59,
+        "url": "https://www.tvmaze.com/episodes/2648016/loki-2x06-glorious-purpose",
+        "airdate": "2023-11-09"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 309,
+    "checkedAt": "2026-10-13"
+  },
+  "antmanandwaspquantumania-2023-1": {
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "sourceTitle": "Ant-Man and the Wasp: Quantumania",
+    "source": "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp%3A_Quantumania",
+    "kind": "film",
+    "totalMinutes": 124,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "secretinvasion-2023-1": {
+    "title": "Secret Invasion",
+    "sourceTitle": "Secret Invasion",
+    "source": "https://www.tvmaze.com/shows/52352/secret-invasion",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Resurrection",
+        "minutes": 55,
+        "url": "https://www.tvmaze.com/episodes/2513565/secret-invasion-1x01-resurrection",
+        "airdate": "2023-06-21"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Promises",
+        "minutes": 58,
+        "url": "https://www.tvmaze.com/episodes/2514248/secret-invasion-1x02-promises",
+        "airdate": "2023-06-28"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Betrayed",
+        "minutes": 42,
+        "url": "https://www.tvmaze.com/episodes/2514249/secret-invasion-1x03-betrayed",
+        "airdate": "2023-07-05"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Beloved",
+        "minutes": 36,
+        "url": "https://www.tvmaze.com/episodes/2514250/secret-invasion-1x04-beloved",
+        "airdate": "2023-07-12"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Harvest",
+        "minutes": 37,
+        "url": "https://www.tvmaze.com/episodes/2514251/secret-invasion-1x05-harvest",
+        "airdate": "2023-07-19"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "Home",
+        "minutes": 36,
+        "url": "https://www.tvmaze.com/episodes/2514252/secret-invasion-1x06-home",
+        "airdate": "2023-07-26"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 264,
+    "checkedAt": "2026-10-13"
+  },
+  "iamgroot-2023-1": {
+    "title": "I Am Groot",
+    "sourceTitle": "I Am Groot",
+    "source": "https://www.tvmaze.com/shows/52351/i-am-groot",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Groot's First Steps",
+        "minutes": 4,
+        "url": "https://www.tvmaze.com/episodes/2339961/i-am-groot-1x01-groots-first-steps",
+        "airdate": "2022-08-10"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "The Little Guy",
+        "minutes": 4,
+        "url": "https://www.tvmaze.com/episodes/2341078/i-am-groot-1x02-the-little-guy",
+        "airdate": "2022-08-10"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Groot's Pursuit",
+        "minutes": 4,
+        "url": "https://www.tvmaze.com/episodes/2341079/i-am-groot-1x03-groots-pursuit",
+        "airdate": "2022-08-10"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Groot Takes a Bath",
+        "minutes": 4,
+        "url": "https://www.tvmaze.com/episodes/2341080/i-am-groot-1x04-groot-takes-a-bath",
+        "airdate": "2022-08-10"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Magnum Opus",
+        "minutes": 4,
+        "url": "https://www.tvmaze.com/episodes/2341081/i-am-groot-1x05-magnum-opus",
+        "airdate": "2022-08-10"
+      },
+      {
+        "season": 2,
+        "number": 1,
+        "name": "Are You My Groot?",
+        "minutes": 4,
+        "url": "https://www.tvmaze.com/episodes/2615900/i-am-groot-2x01-are-you-my-groot",
+        "airdate": "2023-09-06"
+      },
+      {
+        "season": 2,
+        "number": 2,
+        "name": "Groot Noses Around",
+        "minutes": 4,
+        "url": "https://www.tvmaze.com/episodes/2624299/i-am-groot-2x02-groot-noses-around",
+        "airdate": "2023-09-06"
+      },
+      {
+        "season": 2,
+        "number": 3,
+        "name": "Groot's Snow Day",
+        "minutes": 5,
+        "url": "https://www.tvmaze.com/episodes/2624300/i-am-groot-2x03-groots-snow-day",
+        "airdate": "2023-09-06"
+      },
+      {
+        "season": 2,
+        "number": 4,
+        "name": "Groot's Sweet Treat",
+        "minutes": 4,
+        "url": "https://www.tvmaze.com/episodes/2624301/i-am-groot-2x04-groots-sweet-treat",
+        "airdate": "2023-09-06"
+      },
+      {
+        "season": 2,
+        "number": 5,
+        "name": "Groot and the Great Prophecy",
+        "minutes": 6,
+        "url": "https://www.tvmaze.com/episodes/2624302/i-am-groot-2x05-groot-and-the-great-prophecy",
+        "airdate": "2023-09-06"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 43,
+    "checkedAt": "2026-10-13"
+  },
+  "guardiansofgalxyvol2-2023-1": {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "sourceTitle": "Guardians of the Galaxy Vol. 3",
+    "source": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._3",
+    "kind": "film",
+    "totalMinutes": 150,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "whatifs2-2023-1": {
+    "title": "What If...? Season 2",
+    "sourceTitle": "What If...?",
+    "source": "https://www.tvmaze.com/shows/41750/what-if",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 2,
+        "number": 1,
+        "name": "What If... Nebula Joined the Nova Corps?",
+        "minutes": 29,
+        "url": "https://www.tvmaze.com/episodes/2688549/what-if-2x01-what-if-nebula-joined-the-nova-corps",
+        "airdate": "2023-12-22"
+      },
+      {
+        "season": 2,
+        "number": 2,
+        "name": "What If... Peter Quill Attacked Earth's Mightiest Heroes?",
+        "minutes": 30,
+        "url": "https://www.tvmaze.com/episodes/2688554/what-if-2x02-what-if-peter-quill-attacked-earths-mightiest-heroes",
+        "airdate": "2023-12-23"
+      },
+      {
+        "season": 2,
+        "number": 3,
+        "name": "What If... Happy Hogan Saved Christmas?",
+        "minutes": 27,
+        "url": "https://www.tvmaze.com/episodes/2688560/what-if-2x03-what-if-happy-hogan-saved-christmas",
+        "airdate": "2023-12-24"
+      },
+      {
+        "season": 2,
+        "number": 4,
+        "name": "What If... Iron Man Crashed into the Grandmaster?",
+        "minutes": 32,
+        "url": "https://www.tvmaze.com/episodes/2688571/what-if-2x04-what-if-iron-man-crashed-into-the-grandmaster",
+        "airdate": "2023-12-25"
+      },
+      {
+        "season": 2,
+        "number": 5,
+        "name": "What If... Captain Carter Fought the Hydra Stomper?",
+        "minutes": 31,
+        "url": "https://www.tvmaze.com/episodes/2463475/what-if-2x05-what-if-captain-carter-fought-the-hydra-stomper",
+        "airdate": "2023-12-26"
+      },
+      {
+        "season": 2,
+        "number": 6,
+        "name": "What If... Kahhori Reshaped the World?",
+        "minutes": 32,
+        "url": "https://www.tvmaze.com/episodes/2688573/what-if-2x06-what-if-kahhori-reshaped-the-world",
+        "airdate": "2023-12-27"
+      },
+      {
+        "season": 2,
+        "number": 7,
+        "name": "What If... Hela Found the Ten Rings?",
+        "minutes": 29,
+        "url": "https://www.tvmaze.com/episodes/2688574/what-if-2x07-what-if-hela-found-the-ten-rings",
+        "airdate": "2023-12-28"
+      },
+      {
+        "season": 2,
+        "number": 8,
+        "name": "What If... The Avengers Assembled in 1602?",
+        "minutes": 30,
+        "url": "https://www.tvmaze.com/episodes/2688575/what-if-2x08-what-if-the-avengers-assembled-in-1602",
+        "airdate": "2023-12-29"
+      },
+      {
+        "season": 2,
+        "number": 9,
+        "name": "What If... Strange Supreme Intervened?",
+        "minutes": 31,
+        "url": "https://www.tvmaze.com/episodes/2688576/what-if-2x09-what-if-strange-supreme-intervened",
+        "airdate": "2023-12-30"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 271,
+    "checkedAt": "2026-10-13"
+  },
+  "echo-2024-1": {
+    "title": "Echo",
+    "sourceTitle": "Echo",
+    "source": "https://www.tvmaze.com/shows/58950/echo",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Chafa",
+        "minutes": 49,
+        "url": "https://www.tvmaze.com/episodes/2680293/echo-1x01-chafa",
+        "airdate": "2024-01-09"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Lowak",
+        "minutes": 39,
+        "url": "https://www.tvmaze.com/episodes/2680266/echo-1x02-lowak",
+        "airdate": "2024-01-09"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Tuklo",
+        "minutes": 42,
+        "url": "https://www.tvmaze.com/episodes/2680267/echo-1x03-tuklo",
+        "airdate": "2024-01-09"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Taloa",
+        "minutes": 38,
+        "url": "https://www.tvmaze.com/episodes/2680269/echo-1x04-taloa",
+        "airdate": "2024-01-09"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Maya",
+        "minutes": 35,
+        "url": "https://www.tvmaze.com/episodes/2680270/echo-1x05-maya",
+        "airdate": "2024-01-09"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 203,
+    "checkedAt": "2026-10-13"
+  },
+  "xmen97-2024-1": {
+    "title": "X-Men 97",
+    "sourceTitle": "X-Men '97",
+    "source": "https://www.tvmaze.com/shows/58951/x-men-97",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "To Me, My X-Men",
+        "minutes": 32,
+        "url": "https://www.tvmaze.com/episodes/2760697/x-men-97-1x01-to-me-my-x-men",
+        "airdate": "2024-03-20"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Mutant Liberation Begins",
+        "minutes": 32,
+        "url": "https://www.tvmaze.com/episodes/2791747/x-men-97-1x02-mutant-liberation-begins",
+        "airdate": "2024-03-20"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Fire Made Flesh",
+        "minutes": 32,
+        "url": "https://www.tvmaze.com/episodes/2791748/x-men-97-1x03-fire-made-flesh",
+        "airdate": "2024-03-27"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Motendo / Lifedeath - Part 1",
+        "minutes": 29,
+        "url": "https://www.tvmaze.com/episodes/2791749/x-men-97-1x04-motendo-lifedeath-part-1",
+        "airdate": "2024-04-03"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Remember It",
+        "minutes": 36,
+        "url": "https://www.tvmaze.com/episodes/2791750/x-men-97-1x05-remember-it",
+        "airdate": "2024-04-10"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "Lifedeath - Part 2",
+        "minutes": 33,
+        "url": "https://www.tvmaze.com/episodes/2791751/x-men-97-1x06-lifedeath-part-2",
+        "airdate": "2024-04-17"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "Bright Eyes",
+        "minutes": 34,
+        "url": "https://www.tvmaze.com/episodes/2791752/x-men-97-1x07-bright-eyes",
+        "airdate": "2024-04-24"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "Tolerance is Extinction - Part 1",
+        "minutes": 34,
+        "url": "https://www.tvmaze.com/episodes/2791753/x-men-97-1x08-tolerance-is-extinction-part-1",
+        "airdate": "2024-05-01"
+      },
+      {
+        "season": 1,
+        "number": 9,
+        "name": "Tolerance is Extinction - Part 2",
+        "minutes": 31,
+        "url": "https://www.tvmaze.com/episodes/2791754/x-men-97-1x09-tolerance-is-extinction-part-2",
+        "airdate": "2024-05-08"
+      },
+      {
+        "season": 1,
+        "number": 10,
+        "name": "Tolerance is Extinction - Part 3",
+        "minutes": 42,
+        "url": "https://www.tvmaze.com/episodes/2791755/x-men-97-1x10-tolerance-is-extinction-part-3",
+        "airdate": "2024-05-15"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 335,
+    "checkedAt": "2026-10-13"
+  },
+  "deadpoolandwolverine-2024-1": {
+    "title": "Deadpool & Wolverine",
+    "sourceTitle": "Deadpool & Wolverine",
+    "source": "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine",
+    "kind": "film",
+    "totalMinutes": 128,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "venomlastdance-2024-1": {
+    "title": "Venom: The Last Dance",
+    "sourceTitle": "Venom: The Last Dance",
+    "source": "https://en.wikipedia.org/wiki/Venom%3A_The_Last_Dance",
+    "kind": "film",
+    "totalMinutes": 109,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "madameweb-2024-1": {
+    "title": "Madame Web",
+    "sourceTitle": "Madame Web (film)",
+    "source": "https://en.wikipedia.org/wiki/Madame_Web_(film)",
+    "kind": "film",
+    "totalMinutes": 116,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "agathaallalong-2024-1": {
+    "title": "Agatha All Along",
+    "sourceTitle": "Agatha All Along",
+    "source": "https://www.tvmaze.com/shows/58948/agatha-all-along",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Seekest Thou the Road",
+        "minutes": 42,
+        "url": "https://www.tvmaze.com/episodes/2869513/agatha-all-along-1x01-seekest-thou-the-road",
+        "airdate": "2024-09-18"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Circle Sewn with Fate Unlock Thy Hidden Gate",
+        "minutes": 42,
+        "url": "https://www.tvmaze.com/episodes/2869514/agatha-all-along-1x02-circle-sewn-with-fate-unlock-thy-hidden-gate",
+        "airdate": "2024-09-18"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Through Many Miles of Tricks and Trials",
+        "minutes": 36,
+        "url": "https://www.tvmaze.com/episodes/2975675/agatha-all-along-1x03-through-many-miles-of-tricks-and-trials",
+        "airdate": "2024-09-25"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "If I Can't Reach You Let My Song Teach You",
+        "minutes": 41,
+        "url": "https://www.tvmaze.com/episodes/2975676/agatha-all-along-1x04-if-i-cant-reach-you-let-my-song-teach-you",
+        "airdate": "2024-10-02"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Darkest Hour, Wake Thy Power",
+        "minutes": 30,
+        "url": "https://www.tvmaze.com/episodes/2975677/agatha-all-along-1x05-darkest-hour-wake-thy-power",
+        "airdate": "2024-10-09"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "Familiar by Thy Side",
+        "minutes": 47,
+        "url": "https://www.tvmaze.com/episodes/2975678/agatha-all-along-1x06-familiar-by-thy-side",
+        "airdate": "2024-10-16"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "Death's Hand in Mine",
+        "minutes": 35,
+        "url": "https://www.tvmaze.com/episodes/2982007/agatha-all-along-1x07-deaths-hand-in-mine",
+        "airdate": "2024-10-23"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "Follow Me My Friend To Glory at the End",
+        "minutes": 49,
+        "url": "https://www.tvmaze.com/episodes/2982008/agatha-all-along-1x08-follow-me-my-friend-to-glory-at-the-end",
+        "airdate": "2024-10-30"
+      },
+      {
+        "season": 1,
+        "number": 9,
+        "name": "Maiden Mother Crone",
+        "minutes": 42,
+        "url": "https://www.tvmaze.com/episodes/2982009/agatha-all-along-1x09-maiden-mother-crone",
+        "airdate": "2024-10-30"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 364,
+    "checkedAt": "2026-10-13"
+  },
+  "whatifs3-2024-1": {
+    "title": "What If...? Season 3",
+    "sourceTitle": "What If...?",
+    "source": "https://www.tvmaze.com/shows/41750/what-if",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 3,
+        "number": 1,
+        "name": "What If... The Hulk Fought the Mech Avengers?",
+        "minutes": 29,
+        "url": "https://www.tvmaze.com/episodes/3040310/what-if-3x01-what-if-the-hulk-fought-the-mech-avengers",
+        "airdate": "2024-12-22"
+      },
+      {
+        "season": 3,
+        "number": 2,
+        "name": "What If... Agatha Went to Hollywood?",
+        "minutes": 28,
+        "url": "https://www.tvmaze.com/episodes/3041374/what-if-3x02-what-if-agatha-went-to-hollywood",
+        "airdate": "2024-12-23"
+      },
+      {
+        "season": 3,
+        "number": 3,
+        "name": "What If... The Red Guardian Stopped the Winter Soldier?",
+        "minutes": 30,
+        "url": "https://www.tvmaze.com/episodes/3049924/what-if-3x03-what-if-the-red-guardian-stopped-the-winter-soldier",
+        "airdate": "2024-12-24"
+      },
+      {
+        "season": 3,
+        "number": 4,
+        "name": "What If... Howard the Duck Got Hitched?",
+        "minutes": 30,
+        "url": "https://www.tvmaze.com/episodes/3049925/what-if-3x04-what-if-howard-the-duck-got-hitched",
+        "airdate": "2024-12-25"
+      },
+      {
+        "season": 3,
+        "number": 5,
+        "name": "What If... The Emergence Destroyed the Earth?",
+        "minutes": 31,
+        "url": "https://www.tvmaze.com/episodes/3049926/what-if-3x05-what-if-the-emergence-destroyed-the-earth",
+        "airdate": "2024-12-26"
+      },
+      {
+        "season": 3,
+        "number": 6,
+        "name": "What If... 1872?",
+        "minutes": 30,
+        "url": "https://www.tvmaze.com/episodes/3049927/what-if-3x06-what-if-1872",
+        "airdate": "2024-12-27"
+      },
+      {
+        "season": 3,
+        "number": 7,
+        "name": "What If... The Watcher Disappeared?",
+        "minutes": 25,
+        "url": "https://www.tvmaze.com/episodes/3049928/what-if-3x07-what-if-the-watcher-disappeared",
+        "airdate": "2024-12-28"
+      },
+      {
+        "season": 3,
+        "number": 8,
+        "name": "What If... What If?",
+        "minutes": 32,
+        "url": "https://www.tvmaze.com/episodes/3049929/what-if-3x08-what-if-what-if",
+        "airdate": "2024-12-29"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 235,
+    "checkedAt": "2026-10-13"
+  },
+  "yourfriendlyneighborhoodspiderman-2025-1": {
+    "title": "Your Friendly Neighborhood Spider-Man",
+    "sourceTitle": "Your Friendly Neighborhood Spider-Man",
+    "source": "https://www.tvmaze.com/shows/58952/your-friendly-neighborhood-spider-man",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Amazing Fantasy",
+        "minutes": 30,
+        "url": "https://www.tvmaze.com/episodes/3040313/your-friendly-neighborhood-spider-man-1x01-amazing-fantasy",
+        "airdate": "2025-01-29"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "The Parker Luck",
+        "minutes": 29,
+        "url": "https://www.tvmaze.com/episodes/3115593/your-friendly-neighborhood-spider-man-1x02-the-parker-luck",
+        "airdate": "2025-01-29"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Secret Identity Crisis",
+        "minutes": 32,
+        "url": "https://www.tvmaze.com/episodes/3115594/your-friendly-neighborhood-spider-man-1x03-secret-identity-crisis",
+        "airdate": "2025-02-05"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Hitting the Big Time",
+        "minutes": 33,
+        "url": "https://www.tvmaze.com/episodes/3115595/your-friendly-neighborhood-spider-man-1x04-hitting-the-big-time",
+        "airdate": "2025-02-05"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "The Unicorn Unleashed",
+        "minutes": 31,
+        "url": "https://www.tvmaze.com/episodes/3115596/your-friendly-neighborhood-spider-man-1x05-the-unicorn-unleashed",
+        "airdate": "2025-02-05"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "Duel with the Devil",
+        "minutes": 29,
+        "url": "https://www.tvmaze.com/episodes/3115597/your-friendly-neighborhood-spider-man-1x06-duel-with-the-devil",
+        "airdate": "2025-02-12"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "Scorpion Rising",
+        "minutes": 29,
+        "url": "https://www.tvmaze.com/episodes/3115598/your-friendly-neighborhood-spider-man-1x07-scorpion-rising",
+        "airdate": "2025-02-12"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "Tangled Web",
+        "minutes": 30,
+        "url": "https://www.tvmaze.com/episodes/3115599/your-friendly-neighborhood-spider-man-1x08-tangled-web",
+        "airdate": "2025-02-12"
+      },
+      {
+        "season": 1,
+        "number": 9,
+        "name": "Hero or Menace",
+        "minutes": 31,
+        "url": "https://www.tvmaze.com/episodes/3115600/your-friendly-neighborhood-spider-man-1x09-hero-or-menace",
+        "airdate": "2025-02-19"
+      },
+      {
+        "season": 1,
+        "number": 10,
+        "name": "If This Be My Destiny...",
+        "minutes": 33,
+        "url": "https://www.tvmaze.com/episodes/3115601/your-friendly-neighborhood-spider-man-1x10-if-this-be-my-destiny",
+        "airdate": "2025-02-19"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 307,
+    "checkedAt": "2026-10-13"
+  },
+  "daredevilbornagains1-2025-1": {
+    "title": "Daredevil: Born Again Season 1",
+    "sourceTitle": "Daredevil: Born Again",
+    "source": "https://www.tvmaze.com/shows/63234/daredevil-born-again",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Heaven’s Half Hour",
+        "minutes": 58,
+        "url": "https://www.tvmaze.com/episodes/3031760/daredevil-born-again-1x01-heavens-half-hour",
+        "airdate": "2025-03-04"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Optics",
+        "minutes": 47,
+        "url": "https://www.tvmaze.com/episodes/3147630/daredevil-born-again-1x02-optics",
+        "airdate": "2025-03-04"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "The Hollow of His Hand",
+        "minutes": 44,
+        "url": "https://www.tvmaze.com/episodes/3160192/daredevil-born-again-1x03-the-hollow-of-his-hand",
+        "airdate": "2025-03-11"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Sic Semper Systema",
+        "minutes": 52,
+        "url": "https://www.tvmaze.com/episodes/3160193/daredevil-born-again-1x04-sic-semper-systema",
+        "airdate": "2025-03-18"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "With Interest",
+        "minutes": 40,
+        "url": "https://www.tvmaze.com/episodes/3160194/daredevil-born-again-1x05-with-interest",
+        "airdate": "2025-03-25"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "Excessive Force",
+        "minutes": 42,
+        "url": "https://www.tvmaze.com/episodes/3160195/daredevil-born-again-1x06-excessive-force",
+        "airdate": "2025-03-25"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "Art for Art’s Sake",
+        "minutes": 40,
+        "url": "https://www.tvmaze.com/episodes/3160197/daredevil-born-again-1x07-art-for-arts-sake",
+        "airdate": "2025-04-01"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "Isle of Joy",
+        "minutes": 49,
+        "url": "https://www.tvmaze.com/episodes/3160198/daredevil-born-again-1x08-isle-of-joy",
+        "airdate": "2025-04-08"
+      },
+      {
+        "season": 1,
+        "number": 9,
+        "name": "Straight to Hell",
+        "minutes": 57,
+        "url": "https://www.tvmaze.com/episodes/3160200/daredevil-born-again-1x09-straight-to-hell",
+        "airdate": "2025-04-15"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 429,
+    "checkedAt": "2026-10-13"
+  },
+  "captainamericabravenewworld-2025-1": {
+    "title": "Captain America: Brave New World",
+    "sourceTitle": "Captain America: Brave New World",
+    "source": "https://en.wikipedia.org/wiki/Captain_America%3A_Brave_New_World",
+    "kind": "film",
+    "totalMinutes": 118,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "thunderbolts-2025-1": {
+    "title": "Thunderbolts*",
+    "sourceTitle": "Thunderbolts*",
+    "source": "https://en.wikipedia.org/wiki/Thunderbolts*",
+    "kind": "film",
+    "totalMinutes": 127,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "ironheart-2025-1": {
+    "title": "Ironheart",
+    "sourceTitle": "Ironheart",
+    "source": "https://www.tvmaze.com/shows/47859/ironheart",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Take Me Home",
+        "minutes": 41,
+        "url": "https://www.tvmaze.com/episodes/3040314/ironheart-1x01-take-me-home",
+        "airdate": "2025-06-24"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Will the Real Natalie Please Stand Up?",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/3041369/ironheart-1x02-will-the-real-natalie-please-stand-up",
+        "airdate": "2025-06-24"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "We in Danger, Girl",
+        "minutes": 56,
+        "url": "https://www.tvmaze.com/episodes/3041370/ironheart-1x03-we-in-danger-girl",
+        "airdate": "2025-06-24"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Bad Magic",
+        "minutes": 53,
+        "url": "https://www.tvmaze.com/episodes/3278249/ironheart-1x04-bad-magic",
+        "airdate": "2025-07-01"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Karma's a Glitch",
+        "minutes": 60,
+        "url": "https://www.tvmaze.com/episodes/3278258/ironheart-1x05-karmas-a-glitch",
+        "airdate": "2025-07-01"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "The Past Is the Past",
+        "minutes": 42,
+        "url": "https://www.tvmaze.com/episodes/3278268/ironheart-1x06-the-past-is-the-past",
+        "airdate": "2025-07-01"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 302,
+    "checkedAt": "2026-10-13"
+  },
+  "fantasticfourfirststeps-2025-1": {
+    "title": "The Fantastic Four: First Steps",
+    "sourceTitle": "The Fantastic Four: First Steps",
+    "source": "https://en.wikipedia.org/wiki/The_Fantastic_Four%3A_First_Steps",
+    "kind": "film",
+    "totalMinutes": 114,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "eyesofwakanda-2025-1": {
+    "title": "Eyes of Wakanda",
+    "sourceTitle": "Eyes of Wakanda",
+    "source": "https://www.tvmaze.com/shows/73415/eyes-of-wakanda",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Into the Lion's Den",
+        "minutes": 31,
+        "url": "https://www.tvmaze.com/episodes/3040319/eyes-of-wakanda-1x01-into-the-lions-den",
+        "airdate": "2025-08-01"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Legends and Lies",
+        "minutes": 31,
+        "url": "https://www.tvmaze.com/episodes/3041375/eyes-of-wakanda-1x02-legends-and-lies",
+        "airdate": "2025-08-01"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Lost and Found",
+        "minutes": 30,
+        "url": "https://www.tvmaze.com/episodes/3041376/eyes-of-wakanda-1x03-lost-and-found",
+        "airdate": "2025-08-01"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "The Last Panther",
+        "minutes": 29,
+        "url": "https://www.tvmaze.com/episodes/3041377/eyes-of-wakanda-1x04-the-last-panther",
+        "airdate": "2025-08-01"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 121,
+    "checkedAt": "2026-10-13"
+  },
+  "marvelzombies-2026-1": {
+    "title": "Marvel Zombies",
+    "sourceTitle": "Marvel Zombies",
+    "source": "https://www.tvmaze.com/shows/58949/marvel-zombies",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Episode 1",
+        "minutes": 37,
+        "url": "https://www.tvmaze.com/episodes/3257653/marvel-zombies-1x01-episode-1",
+        "airdate": "2025-09-24"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Episode 2",
+        "minutes": 33,
+        "url": "https://www.tvmaze.com/episodes/3331134/marvel-zombies-1x02-episode-2",
+        "airdate": "2025-09-24"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Episode 3",
+        "minutes": 32,
+        "url": "https://www.tvmaze.com/episodes/3331135/marvel-zombies-1x03-episode-3",
+        "airdate": "2025-09-24"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Episode 4",
+        "minutes": 31,
+        "url": "https://www.tvmaze.com/episodes/3331136/marvel-zombies-1x04-episode-4",
+        "airdate": "2025-09-24"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 133,
+    "checkedAt": "2026-10-13"
+  },
+  "wonderman-tba-1": {
+    "title": "Wonder Man",
+    "sourceTitle": "Wonder Man",
+    "source": "https://www.tvmaze.com/shows/62569/wonder-man",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Matinee",
+        "minutes": 35,
+        "url": "https://www.tvmaze.com/episodes/3394714/wonder-man-1x01-matinee",
+        "airdate": "2026-01-27"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Self-Tape",
+        "minutes": 34,
+        "url": "https://www.tvmaze.com/episodes/3521230/wonder-man-1x02-self-tape",
+        "airdate": "2026-01-27"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Pacoima",
+        "minutes": 34,
+        "url": "https://www.tvmaze.com/episodes/3521231/wonder-man-1x03-pacoima",
+        "airdate": "2026-01-27"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Doorman",
+        "minutes": 32,
+        "url": "https://www.tvmaze.com/episodes/3521232/wonder-man-1x04-doorman",
+        "airdate": "2026-01-27"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Found Footage",
+        "minutes": 25,
+        "url": "https://www.tvmaze.com/episodes/3521233/wonder-man-1x05-found-footage",
+        "airdate": "2026-01-27"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "Callback",
+        "minutes": 36,
+        "url": "https://www.tvmaze.com/episodes/3521234/wonder-man-1x06-callback",
+        "airdate": "2026-01-27"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "Kathy Friedman",
+        "minutes": 35,
+        "url": "https://www.tvmaze.com/episodes/3521235/wonder-man-1x07-kathy-friedman",
+        "airdate": "2026-01-27"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "Yucca Valley",
+        "minutes": 34,
+        "url": "https://www.tvmaze.com/episodes/3521236/wonder-man-1x08-yucca-valley",
+        "airdate": "2026-01-27"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 265,
+    "checkedAt": "2026-10-13"
+  },
+  "punisheronelastkill-2026-1": {
+    "title": "The Punisher: One Last Kill",
+    "sourceTitle": "The Punisher: One Last Kill",
+    "source": "https://en.wikipedia.org/wiki/The_Punisher%3A_One_Last_Kill",
+    "kind": "film",
+    "totalMinutes": 51,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "daredevilbornagains2-2026-1": {
+    "title": "Daredevil: Born Again Season 2",
+    "sourceTitle": "Daredevil: Born Again",
+    "source": "https://www.tvmaze.com/shows/63234/daredevil-born-again",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 2,
+        "number": 1,
+        "name": "The Northern Star",
+        "minutes": 51,
+        "url": "https://www.tvmaze.com/episodes/3449248/daredevil-born-again-2x01-the-northern-star",
+        "airdate": "2026-03-24"
+      },
+      {
+        "season": 2,
+        "number": 2,
+        "name": "Shoot the Moon",
+        "minutes": 46,
+        "url": "https://www.tvmaze.com/episodes/3562592/daredevil-born-again-2x02-shoot-the-moon",
+        "airdate": "2026-03-31"
+      },
+      {
+        "season": 2,
+        "number": 3,
+        "name": "The Scales & the Sword",
+        "minutes": 47,
+        "url": "https://www.tvmaze.com/episodes/3562593/daredevil-born-again-2x03-the-scales-the-sword",
+        "airdate": "2026-03-31"
+      },
+      {
+        "season": 2,
+        "number": 4,
+        "name": "Gloves Off",
+        "minutes": 51,
+        "url": "https://www.tvmaze.com/episodes/3562594/daredevil-born-again-2x04-gloves-off",
+        "airdate": "2026-04-07"
+      },
+      {
+        "season": 2,
+        "number": 5,
+        "name": "The Grand Design",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/3562595/daredevil-born-again-2x05-the-grand-design",
+        "airdate": "2026-04-14"
+      },
+      {
+        "season": 2,
+        "number": 6,
+        "name": "Requiem",
+        "minutes": 49,
+        "url": "https://www.tvmaze.com/episodes/3562596/daredevil-born-again-2x06-requiem",
+        "airdate": "2026-04-21"
+      },
+      {
+        "season": 2,
+        "number": 7,
+        "name": "The Hateful Darkness",
+        "minutes": 44,
+        "url": "https://www.tvmaze.com/episodes/3562597/daredevil-born-again-2x07-the-hateful-darkness",
+        "airdate": "2026-04-28"
+      },
+      {
+        "season": 2,
+        "number": 8,
+        "name": "The Southern Cross",
+        "minutes": 51,
+        "url": "https://www.tvmaze.com/episodes/3562598/daredevil-born-again-2x08-the-southern-cross",
+        "airdate": "2026-05-05"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 389,
+    "checkedAt": "2026-10-13"
+  },
+  "spidernoir-2026-1": {
+    "title": "Spider-Noir",
+    "sourceTitle": "Spider-Noir",
+    "source": "https://www.tvmaze.com/shows/77003/spider-noir",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "Step Into My Office",
+        "minutes": 45,
+        "url": "https://www.tvmaze.com/episodes/3547679/spider-noir-1x01-step-into-my-office",
+        "airdate": "2026-05-25"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Tread Lightly",
+        "minutes": 45,
+        "url": "https://www.tvmaze.com/episodes/3548166/spider-noir-1x02-tread-lightly",
+        "airdate": "2026-05-25"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Double Cross",
+        "minutes": 45,
+        "url": "https://www.tvmaze.com/episodes/3548167/spider-noir-1x03-double-cross",
+        "airdate": "2026-05-25"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "A Mistake I'll Never Make Again",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/3548168/spider-noir-1x04-a-mistake-ill-never-make-again",
+        "airdate": "2026-05-25"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Betrayal",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/3548169/spider-noir-1x05-betrayal",
+        "airdate": "2026-05-25"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "Nightmare on a Gurney",
+        "minutes": 40,
+        "url": "https://www.tvmaze.com/episodes/3548170/spider-noir-1x06-nightmare-on-a-gurney",
+        "airdate": "2026-05-25"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "Nobody's Hero",
+        "minutes": 45,
+        "url": "https://www.tvmaze.com/episodes/3548171/spider-noir-1x07-nobodys-hero",
+        "airdate": "2026-05-25"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "The Man in the Mask",
+        "minutes": 50,
+        "url": "https://www.tvmaze.com/episodes/3548172/spider-noir-1x08-the-man-in-the-mask",
+        "airdate": "2026-05-25"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 370,
+    "checkedAt": "2026-10-13"
+  },
+  "spidermanbrandnewday-2026-1": {
+    "title": "Spider-Man: Brand New Day",
+    "sourceTitle": "Spider-Man: Brand New Day",
+    "source": "https://en.wikipedia.org/wiki/Spider-Man%3A_Brand_New_Day",
+    "kind": "film",
+    "totalMinutes": 145,
+    "complete": true,
+    "checkedAt": "2026-10-13"
+  },
+  "xmen97s2-2026-1": {
+    "title": "X-Men 97 Season 2",
+    "sourceTitle": "X-Men '97",
+    "source": "https://www.tvmaze.com/shows/58951/x-men-97",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 2,
+        "number": 1,
+        "name": "Days of Past Future",
+        "minutes": 33,
+        "url": "https://www.tvmaze.com/episodes/3626980/x-men-97-2x01-days-of-past-future",
+        "airdate": "2026-07-01"
+      },
+      {
+        "season": 2,
+        "number": 2,
+        "name": "A Force to be Reckoned With",
+        "minutes": 29,
+        "url": "https://www.tvmaze.com/episodes/3651107/x-men-97-2x02-a-force-to-be-reckoned-with",
+        "airdate": "2026-07-01"
+      },
+      {
+        "season": 2,
+        "number": 3,
+        "name": "Rise of Apocalypse – Part 1",
+        "minutes": 29,
+        "url": "https://www.tvmaze.com/episodes/3651108/x-men-97-2x03-rise-of-apocalypse-part-1",
+        "airdate": "2026-07-01"
+      },
+      {
+        "season": 2,
+        "number": 4,
+        "name": "Rise of Apocalypse – Part 2",
+        "minutes": 35,
+        "url": "https://www.tvmaze.com/episodes/3652065/x-men-97-2x04-rise-of-apocalypse-part-2",
+        "airdate": "2026-07-08"
+      },
+      {
+        "season": 2,
+        "number": 5,
+        "name": "Weapon X, Lies, and DVDs",
+        "minutes": 31,
+        "url": "https://www.tvmaze.com/episodes/3652066/x-men-97-2x05-weapon-x-lies-and-dvds",
+        "airdate": "2026-07-15"
+      },
+      {
+        "season": 2,
+        "number": 6,
+        "name": "Danger.exe",
+        "minutes": 33,
+        "url": "https://www.tvmaze.com/episodes/3652067/x-men-97-2x06-dangerexe",
+        "airdate": "2026-07-22"
+      },
+      {
+        "season": 2,
+        "number": 7,
+        "name": "Strange Land, Savage Heart",
+        "minutes": 30,
+        "url": "https://www.tvmaze.com/episodes/3652068/x-men-97-2x07-strange-land-savage-heart",
+        "airdate": "2026-07-29"
+      },
+      {
+        "season": 2,
+        "number": 8,
+        "name": "The Dead Man's Hand",
+        "minutes": 34,
+        "url": "https://www.tvmaze.com/episodes/3652069/x-men-97-2x08-the-dead-mans-hand",
+        "airdate": "2026-08-05"
+      },
+      {
+        "season": 2,
+        "number": 9,
+        "name": "Survival of the Fittest",
+        "minutes": 32,
+        "url": "https://www.tvmaze.com/episodes/3652070/x-men-97-2x09-survival-of-the-fittest",
+        "airdate": "2026-08-12"
+      }
+    ],
+    "complete": true,
+    "totalMinutes": 286,
+    "checkedAt": "2026-10-13"
+  },
+  "avengersendagmeencore-2026-1": {
+    "title": "Avengers: Endgame Encore",
+    "totalMinutes": null,
+    "complete": false,
+    "note": "Distinct encore edition in your list; do not substitute the original theatrical runtime."
+  },
+  "visionquest-2026-1": {
+    "title": "Vision Quest",
+    "sourceTitle": "VisionQuest",
+    "source": "https://www.tvmaze.com/shows/64950/visionquest",
+    "kind": "episodes",
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "name": "No Strings",
+        "minutes": null,
+        "url": "https://www.tvmaze.com/episodes/3616304/visionquest-1x01-no-strings",
+        "airdate": "2026-10-13"
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "name": "Theseus",
+        "minutes": null,
+        "url": "https://www.tvmaze.com/episodes/3616305/visionquest-1x02-theseus",
+        "airdate": "2026-10-13"
+      },
+      {
+        "season": 1,
+        "number": 3,
+        "name": "Reboot",
+        "minutes": null,
+        "url": "https://www.tvmaze.com/episodes/3616306/visionquest-1x03-reboot",
+        "airdate": "2026-10-20"
+      },
+      {
+        "season": 1,
+        "number": 4,
+        "name": "Malware",
+        "minutes": null,
+        "url": "https://www.tvmaze.com/episodes/3616307/visionquest-1x04-malware",
+        "airdate": "2026-10-20"
+      },
+      {
+        "season": 1,
+        "number": 5,
+        "name": "Firewall",
+        "minutes": null,
+        "url": "https://www.tvmaze.com/episodes/3616308/visionquest-1x05-firewall",
+        "airdate": "2026-10-27"
+      },
+      {
+        "season": 1,
+        "number": 6,
+        "name": "Deadlock",
+        "minutes": null,
+        "url": "https://www.tvmaze.com/episodes/3616309/visionquest-1x06-deadlock",
+        "airdate": "2026-10-27"
+      },
+      {
+        "season": 1,
+        "number": 7,
+        "name": "Immolation",
+        "minutes": null,
+        "url": "https://www.tvmaze.com/episodes/3616310/visionquest-1x07-immolation",
+        "airdate": "2026-11-03"
+      },
+      {
+        "season": 1,
+        "number": 8,
+        "name": "Forever",
+        "minutes": null,
+        "url": "https://www.tvmaze.com/episodes/3616311/visionquest-1x08-forever",
+        "airdate": "2026-11-10"
+      }
+    ],
+    "complete": false,
+    "totalMinutes": null,
+    "checkedAt": "2026-10-13"
+  },
+  "avengersdoomsday-2026-1": {
+    "title": "Avengers: Doomsday",
+    "sourceTitle": "Avengers: Doomsday",
+    "source": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday",
+    "kind": "film",
+    "totalMinutes": null,
+    "complete": false,
+    "checkedAt": "2026-10-13"
+  }
+}
