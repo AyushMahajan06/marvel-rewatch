@@ -1,5 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import {rewatchProgress} from '../lib/planner-ui.mjs';
 import {plannerSettings, readSaved, saveSettings, displayDate, planCalendar, prettyTime} from '../lib/planner-ui.mjs';
 
 test('migrates the previous default and retains custom valid targets', () => {
@@ -28,4 +29,9 @@ test('planner counts Pacific calendar days across daylight-saving time', () => {
 });
 test('duration formatting carries rounded minutes into hours', () => {
   assert.equal(prettyTime(59.8), '1h 0m');
+});
+test('progress counts honorable mentions without treating them as completed watches', () => {
+ const items=[...Array.from({length:84},()=>({status:'Watched'})),{status:'Partial'},...Array.from({length:47},()=>({status:'Remaining'}))];
+ assert.deepEqual(rewatchProgress(items),{completed:84,honorable:1,counted:85,total:132,percent:64});
+ assert.deepEqual(rewatchProgress([]),{completed:0,honorable:0,counted:0,total:0,percent:0});
 });

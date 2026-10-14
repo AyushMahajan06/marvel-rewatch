@@ -15,6 +15,8 @@ Two explicit planning overrides apply to fresh responses and older browser cache
 
 ## Planning controls
 
+The headline progress count includes completed watches **and honorable mentions**. The breakdown keeps them separate (currently 84 completed + 1 honorable mention = 85/132); honorable mentions do not become fully watched entries or enter the rating average. Remaining-title selection and runtime calculations are unchanged.
+
 - Check or uncheck remaining titles to include them in your plan. Checkbox targets are **44 × 44 CSS pixels**, with a visible 24-pixel checkbox, hover/press feedback and keyboard focus styling. Selections update totals immediately.
 - **Include all remaining** and **Clear plan** provide bulk selection.
 - Adjust daily pace and target date to see viewing days and a projected finish date for known runtimes.
