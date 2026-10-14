@@ -17,7 +17,9 @@ Two explicit planning overrides apply to fresh responses and older browser cache
 
 ## Planning controls
 
-The headline watched count includes Captain America (1944) normally, per the user's counting preference. Its summary reads **85 watched · 132 total · 47 remaining** with dynamic counts, not a separate honorable-mention breakdown. The original partial-viewing note remains in title details; rating averages and remaining-runtime calculations are unchanged.
+The headline watched count includes Captain America (1944) normally, per the user's counting preference. The watchlist defaults to **All**, showing watched entries and ratings alongside remaining titles. The full-list total appears beneath **Still to watch**, without a repeated count sentence. The original partial-viewing note remains in title details; rating averages and remaining-runtime calculations are unchanged.
+
+`lib/posters.json` maps all 132 rewatch entries to public Wikipedia/TVmaze artwork, with source links, matched titles and artwork type. Posters load lazily with an icon fallback for unavailable images. Details show attribution and whether artwork is season-specific or series-wide; Endgame Encore explicitly reuses the standard Endgame poster. Images remain remotely hosted, not committed as binaries. TVmaze data is attributed under CC BY-SA; Wikipedia file pages carry individual rights information, and film posters are not represented as freely licensed. Refresh does not redo artwork matching.
 
 - Check or uncheck remaining titles to include them in your plan. Checkbox targets are **44 × 44 CSS pixels**, with a visible 24-pixel checkbox, hover/press feedback and keyboard focus styling. Selections update totals immediately.
 - **Include all remaining** and **Clear plan** provide bulk selection.
@@ -42,7 +44,7 @@ npm run dev
 Open the local URL printed by the server. This project uses React, Vinext/Vite and a Cloudflare Worker-compatible API route.
 
 ```sh
-node --test lib/planner.test.mjs lib/runtime.test.mjs tests/planner-ui.test.mjs
+node --test lib/planner.test.mjs lib/runtime.test.mjs tests/planner-ui.test.mjs tests/posters.test.mjs
 npx tsc --noEmit
 npm run build
 npm run start
