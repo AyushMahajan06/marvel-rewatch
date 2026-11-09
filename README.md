@@ -30,18 +30,18 @@ Film runtimes and episode lengths are maintained in a separate attributed data s
 ## Engineering choices
 
 - React and TypeScript for the dashboard and interactive controls.
-- A Next.js-style App Router structure, currently built with Vinext/Vite for Cloudflare Workers through Sites.
+- Next.js App Router with a Node.js API route, ready to deploy on Vercel.
 - A read-only API route for source reconciliation.
 - Pure calculation and validation modules for viewing time, settings and Pacific calendar dates.
 - Browser-local persistence with a last-successful-response fallback when source refresh fails.
 - Lazy-loaded artwork, attribution links and image-error fallbacks.
 - Responsive layouts, keyboard focus indicators and large checkbox targets.
 
-A migration to standard Next.js on Vercel is planned. The current deployment is still hosted through Sites.
+The repository uses standard Next.js. The original live link remains available while the Vercel deployment and custom domain are connected.
 
 ## Run locally
 
-Requires Node.js 22.13 or newer.
+Use Node.js 22 LTS, matching `.nvmrc` and the Vercel project runtime.
 
 ```sh
 npm ci
@@ -82,6 +82,10 @@ Artwork comes from public Wikipedia and TVmaze sources. Season-specific artwork 
 
 ## Deployment
 
-GitHub holds the source. The current Sites deployment uses a separate publish workflow, so a GitHub push alone does not deploy it. The planned Vercel migration will connect production deployments to main.
+Import `AyushMahajan06/marvel-rewatch` into Vercel and choose the Next.js framework preset. Use the repository root, Node.js 22.x, `npm ci` for installation and `npm run build` for the build. Leave the output directory at its framework default.
+
+No environment variables, database, or LLM API key are required. The API reads the public Google Sheet and Bluesky feed at request time. Connect production deployments to `main`, then add your custom domain in Vercel's project settings.
+
+The API has a 60-second execution budget. A source failure returns an error and the browser retains its last successful response. Settings remain browser- and domain-specific, so selections on the original site will need to be entered again on a new domain.
 
 Environment files, credentials, dependencies, generated output and local research artifacts are excluded from version control.
